@@ -1,0 +1,491 @@
+2013.11.03 10:56:11.840 INFO  jpcap.media.net.HttpPacket 29 playListGet - GET /player/getPlayList/VideoIDS/XNjI5MzIyNTQ4/timezone/+08/version/5/source/out/Sc/2?n=3&ran=7474&password= HTTP/1.1 host: v.youku.com
+2013.11.03 10:56:11.846 INFO  jpcap.media.net.HttpPacket 43 playListResponse - HTTP/1.1 200  Content-Type: text/html; charset=UTF-8 Content-Length: 6012 Location: null
+2013.11.03 10:56:12.658 INFO  jpcap.media.net.HttpPacket 58 videoGet - GET /youku/677562C26553D836D39E082D4C/0300010D005274B211B0F1054A57BF108915BC-8A3D-7F84-E5B9-C25DE9E7DA33.flv HTTP/1.1 host: 118.228.16.42
+2013.11.03 10:56:12.736 INFO  jpcap.media.net.HttpPacket 72 videoResponse - video/x-flv
+2013.11.03 10:56:12.737 INFO  jpcap.media.net.HttpPacket 74 videoResponse - HTTP/1.1 200  Content-Type: video/x-flv Content-Length: 29718080 Location: null
+2013.11.03 10:56:12.867 INFO  jpcap.media.CaptureLauncher$1 73 processVelocity - velocity:486|average velocity:498|totalDelataTime:119
+2013.11.03 10:56:12.867 INFO  jpcap.media.CaptureLauncher$1 79 processLostPackets - lostPackets:38|time:119
+2013.11.03 10:56:12.867 INFO  jpcap.media.CaptureLauncher$1 84 processFluency - fluency:247|time:119
+2013.11.03 10:56:12.956 INFO  jpcap.media.CaptureLauncher$1 73 processVelocity - velocity:1605|average velocity:1007|totalDelataTime:220
+2013.11.03 10:56:12.957 INFO  jpcap.media.CaptureLauncher$1 79 processLostPackets - lostPackets:145|time:220
+2013.11.03 10:56:12.957 INFO  jpcap.media.CaptureLauncher$1 84 processFluency - fluency:1147|time:220
+2013.11.03 10:56:13.057 INFO  jpcap.media.CaptureLauncher$1 73 processVelocity - velocity:2050|average velocity:1335|totalDelataTime:321
+2013.11.03 10:56:13.058 INFO  jpcap.media.CaptureLauncher$1 79 processLostPackets - lostPackets:282|time:321
+2013.11.03 10:56:13.058 INFO  jpcap.media.CaptureLauncher$1 84 processFluency - fluency:2324|time:321
+2013.11.03 10:56:13.179 INFO  jpcap.media.CaptureLauncher$1 73 processVelocity - velocity:2572|average velocity:1655|totalDelataTime:433
+2013.11.03 10:56:13.179 INFO  jpcap.media.CaptureLauncher$1 79 processLostPackets - lostPackets:429|time:433
+2013.11.03 10:56:13.179 INFO  jpcap.media.CaptureLauncher$1 84 processFluency - fluency:3991|time:433
+2013.11.03 10:56:13.276 INFO  jpcap.media.CaptureLauncher$1 73 processVelocity - velocity:1337|average velocity:1593|totalDelataTime:538
+2013.11.03 10:56:13.276 INFO  jpcap.media.CaptureLauncher$1 79 processLostPackets - lostPackets:566|time:538
+2013.11.03 10:56:13.276 INFO  jpcap.media.CaptureLauncher$1 84 processFluency - fluency:4753|time:538
+2013.11.03 10:56:13.380 INFO  jpcap.media.CaptureLauncher$1 73 processVelocity - velocity:2675|average velocity:1770|totalDelataTime:643
+2013.11.03 10:56:13.381 INFO  jpcap.media.CaptureLauncher$1 79 processLostPackets - lostPackets:752|time:643
+2013.11.03 10:56:13.382 INFO  jpcap.media.CaptureLauncher$1 84 processFluency - fluency:6382|time:643
+2013.11.03 10:56:13.505 INFO  jpcap.media.CaptureLauncher$1 73 processVelocity - velocity:2698|average velocity:1905|totalDelataTime:753
+2013.11.03 10:56:13.505 INFO  jpcap.media.CaptureLauncher$1 79 processLostPackets - lostPackets:949|time:753
+2013.11.03 10:56:13.505 INFO  jpcap.media.CaptureLauncher$1 84 processFluency - fluency:8104|time:753
+2013.11.03 10:56:13.593 INFO  jpcap.media.CaptureLauncher$1 73 processVelocity - velocity:2727|average velocity:2004|totalDelataTime:856
+2013.11.03 10:56:13.593 INFO  jpcap.media.CaptureLauncher$1 79 processLostPackets - lostPackets:1135|time:856
+2013.11.03 10:56:13.593 INFO  jpcap.media.CaptureLauncher$1 84 processFluency - fluency:9735|time:856
+2013.11.03 10:56:13.693 INFO  jpcap.media.CaptureLauncher$1 73 processVelocity - velocity:2709|average velocity:2078|totalDelataTime:957
+2013.11.03 10:56:13.694 INFO  jpcap.media.CaptureLauncher$1 79 processLostPackets - lostPackets:1316|time:957
+2013.11.03 10:56:13.695 INFO  jpcap.media.CaptureLauncher$1 84 processFluency - fluency:11324|time:957
+2013.11.03 10:56:13.794 INFO  jpcap.media.CaptureLauncher$1 73 processVelocity - velocity:3068|average velocity:2173|totalDelataTime:1058
+2013.11.03 10:56:13.795 INFO  jpcap.media.CaptureLauncher$1 79 processLostPackets - lostPackets:1521|time:1058
+2013.11.03 10:56:13.795 INFO  jpcap.media.CaptureLauncher$1 84 processFluency - fluency:13135|time:1058
+2013.11.03 10:56:13.896 INFO  jpcap.media.CaptureLauncher$1 73 processVelocity - velocity:2351|average velocity:2188|totalDelataTime:1159
+2013.11.03 10:56:13.897 INFO  jpcap.media.CaptureLauncher$1 79 processLostPackets - lostPackets:1678|time:1159
+2013.11.03 10:56:13.897 INFO  jpcap.media.CaptureLauncher$1 84 processFluency - fluency:14500|time:1159
+2013.11.03 10:56:13.998 INFO  jpcap.media.CaptureLauncher$1 73 processVelocity - velocity:1689|average velocity:2148|totalDelataTime:1261
+2013.11.03 10:56:13.998 INFO  jpcap.media.CaptureLauncher$1 79 processLostPackets - lostPackets:1792|time:1261
+2013.11.03 10:56:13.999 INFO  jpcap.media.CaptureLauncher$1 84 processFluency - fluency:15462|time:1261
+2013.11.03 10:56:14.109 INFO  jpcap.media.CaptureLauncher$1 73 processVelocity - velocity:1590|average velocity:2102|totalDelataTime:1373
+2013.11.03 10:56:14.110 INFO  jpcap.media.CaptureLauncher$1 79 processLostPackets - lostPackets:1910|time:1373
+2013.11.03 10:56:14.110 INFO  jpcap.media.CaptureLauncher$1 84 processFluency - fluency:16449|time:1373
+2013.11.03 10:56:14.212 INFO  jpcap.media.CaptureLauncher$1 73 processVelocity - velocity:1743|average velocity:2077|totalDelataTime:1476
+2013.11.03 10:56:14.213 INFO  jpcap.media.CaptureLauncher$1 79 processLostPackets - lostPackets:2029|time:1476
+2013.11.03 10:56:14.213 INFO  jpcap.media.CaptureLauncher$1 84 processFluency - fluency:17455|time:1476
+2013.11.03 10:56:14.313 INFO  jpcap.media.CaptureLauncher$1 73 processVelocity - velocity:1978|average velocity:2071|totalDelataTime:1577
+2013.11.03 10:56:14.323 INFO  jpcap.media.CaptureLauncher$1 79 processLostPackets - lostPackets:2161|time:1577
+2013.11.03 10:56:14.323 INFO  jpcap.media.CaptureLauncher$1 84 processFluency - fluency:18587|time:1577
+2013.11.03 10:56:14.419 INFO  jpcap.media.CaptureLauncher$1 73 processVelocity - velocity:1684|average velocity:2047|totalDelataTime:1681
+2013.11.03 10:56:14.421 INFO  jpcap.media.CaptureLauncher$1 79 processLostPackets - lostPackets:2277|time:1681
+2013.11.03 10:56:14.422 INFO  jpcap.media.CaptureLauncher$1 84 processFluency - fluency:19565|time:1681
+2013.11.03 10:56:14.529 INFO  jpcap.media.CaptureLauncher$1 73 processVelocity - velocity:1970|average velocity:2042|totalDelataTime:1789
+2013.11.03 10:56:14.530 INFO  jpcap.media.CaptureLauncher$1 79 processLostPackets - lostPackets:2418|time:1789
+2013.11.03 10:56:14.531 INFO  jpcap.media.CaptureLauncher$1 84 processFluency - fluency:20771|time:1789
+2013.11.03 10:56:14.630 INFO  jpcap.media.CaptureLauncher$1 73 processVelocity - velocity:2010|average velocity:2041|totalDelataTime:1892
+2013.11.03 10:56:14.632 INFO  jpcap.media.CaptureLauncher$1 79 processLostPackets - lostPackets:2555|time:1892
+2013.11.03 10:56:14.632 INFO  jpcap.media.CaptureLauncher$1 84 processFluency - fluency:21946|time:1892
+2013.11.03 10:56:14.731 INFO  jpcap.media.CaptureLauncher$1 73 processVelocity - velocity:1944|average velocity:2036|totalDelataTime:1994
+2013.11.03 10:56:14.732 INFO  jpcap.media.CaptureLauncher$1 79 processLostPackets - lostPackets:2686|time:1994
+2013.11.03 10:56:14.732 INFO  jpcap.media.CaptureLauncher$1 84 processFluency - fluency:23068|time:1994
+2013.11.03 10:56:14.833 INFO  jpcap.media.CaptureLauncher$1 73 processVelocity - velocity:2186|average velocity:2043|totalDelataTime:2096
+2013.11.03 10:56:14.833 INFO  jpcap.media.CaptureLauncher$1 79 processLostPackets - lostPackets:2834|time:2096
+2013.11.03 10:56:14.834 INFO  jpcap.media.CaptureLauncher$1 84 processFluency - fluency:24343|time:2096
+2013.11.03 10:56:14.936 INFO  jpcap.media.CaptureLauncher$1 73 processVelocity - velocity:1949|average velocity:2039|totalDelataTime:2200
+2013.11.03 10:56:14.937 INFO  jpcap.media.CaptureLauncher$1 79 processLostPackets - lostPackets:2968|time:2200
+2013.11.03 10:56:14.938 INFO  jpcap.media.CaptureLauncher$1 84 processFluency - fluency:25490|time:2200
+2013.11.03 10:56:15.043 INFO  jpcap.media.CaptureLauncher$1 73 processVelocity - velocity:2144|average velocity:2043|totalDelataTime:2304
+2013.11.03 10:56:15.044 INFO  jpcap.media.CaptureLauncher$1 79 processLostPackets - lostPackets:3116|time:2304
+2013.11.03 10:56:15.044 INFO  jpcap.media.CaptureLauncher$1 84 processFluency - fluency:26763|time:2304
+2013.11.03 10:56:15.142 INFO  jpcap.media.CaptureLauncher$1 73 processVelocity - velocity:2279|average velocity:2053|totalDelataTime:2405
+2013.11.03 10:56:15.142 INFO  jpcap.media.CaptureLauncher$1 79 processLostPackets - lostPackets:3268|time:2405
+2013.11.03 10:56:15.142 INFO  jpcap.media.CaptureLauncher$1 84 processFluency - fluency:28083|time:2405
+2013.11.03 10:56:15.246 INFO  jpcap.media.CaptureLauncher$1 73 processVelocity - velocity:2502|average velocity:2072|totalDelataTime:2508
+2013.11.03 10:56:15.247 INFO  jpcap.media.CaptureLauncher$1 79 processLostPackets - lostPackets:3439|time:2508
+2013.11.03 10:56:15.250 INFO  jpcap.media.CaptureLauncher$1 84 processFluency - fluency:29571|time:2508
+2013.11.03 10:56:15.345 INFO  jpcap.media.CaptureLauncher$1 73 processVelocity - velocity:2838|average velocity:2101|totalDelataTime:2609
+2013.11.03 10:56:15.345 INFO  jpcap.media.CaptureLauncher$1 79 processLostPackets - lostPackets:3629|time:2609
+2013.11.03 10:56:15.345 INFO  jpcap.media.CaptureLauncher$1 84 processFluency - fluency:31240|time:2609
+2013.11.03 10:56:15.457 INFO  jpcap.media.CaptureLauncher$1 73 processVelocity - velocity:3756|average velocity:2163|totalDelataTime:2710
+2013.11.03 10:56:15.457 INFO  jpcap.media.CaptureLauncher$1 79 processLostPackets - lostPackets:3880|time:2710
+2013.11.03 10:56:15.457 INFO  jpcap.media.CaptureLauncher$1 84 processFluency - fluency:33481|time:2710
+2013.11.03 10:56:15.551 INFO  jpcap.media.CaptureLauncher$1 73 processVelocity - velocity:4302|average velocity:2242|totalDelataTime:2814
+2013.11.03 10:56:15.552 INFO  jpcap.media.CaptureLauncher$1 79 processLostPackets - lostPackets:4177|time:2814
+2013.11.03 10:56:15.552 INFO  jpcap.media.CaptureLauncher$1 84 processFluency - fluency:36138|time:2814
+2013.11.03 10:56:15.663 INFO  jpcap.media.CaptureLauncher$1 73 processVelocity - velocity:3283|average velocity:2282|totalDelataTime:2926
+2013.11.03 10:56:15.663 INFO  jpcap.media.CaptureLauncher$1 79 processLostPackets - lostPackets:4421|time:2926
+2013.11.03 10:56:15.663 INFO  jpcap.media.CaptureLauncher$1 84 processFluency - fluency:38297|time:2926
+2013.11.03 10:56:15.770 INFO  jpcap.media.CaptureLauncher$1 73 processVelocity - velocity:3406|average velocity:2321|totalDelataTime:3031
+2013.11.03 10:56:15.771 INFO  jpcap.media.CaptureLauncher$1 79 processLostPackets - lostPackets:4659|time:3031
+2013.11.03 10:56:15.771 INFO  jpcap.media.CaptureLauncher$1 84 processFluency - fluency:40400|time:3031
+2013.11.03 10:56:15.871 INFO  jpcap.media.CaptureLauncher$1 73 processVelocity - velocity:2952|average velocity:2342|totalDelataTime:3134
+2013.11.03 10:56:15.872 INFO  jpcap.media.CaptureLauncher$1 79 processLostPackets - lostPackets:4859|time:3134
+2013.11.03 10:56:15.872 INFO  jpcap.media.CaptureLauncher$1 84 processFluency - fluency:42174|time:3134
+2013.11.03 10:56:15.973 INFO  jpcap.media.CaptureLauncher$1 73 processVelocity - velocity:3383|average velocity:2374|totalDelataTime:3235
+2013.11.03 10:56:15.974 INFO  jpcap.media.CaptureLauncher$1 79 processLostPackets - lostPackets:5085|time:3235
+2013.11.03 10:56:15.974 INFO  jpcap.media.CaptureLauncher$1 84 processFluency - fluency:44182|time:3235
+2013.11.03 10:56:16.073 INFO  jpcap.media.CaptureLauncher$1 73 processVelocity - velocity:2580|average velocity:2380|totalDelataTime:3336
+2013.11.03 10:56:16.073 INFO  jpcap.media.CaptureLauncher$1 79 processLostPackets - lostPackets:5258|time:3336
+2013.11.03 10:56:16.073 INFO  jpcap.media.CaptureLauncher$1 84 processFluency - fluency:45690|time:3336
+2013.11.03 10:56:16.176 INFO  jpcap.media.CaptureLauncher$1 73 processVelocity - velocity:2441|average velocity:2382|totalDelataTime:3438
+2013.11.03 10:56:16.176 INFO  jpcap.media.CaptureLauncher$1 79 processLostPackets - lostPackets:5423|time:3438
+2013.11.03 10:56:16.176 INFO  jpcap.media.CaptureLauncher$1 84 processFluency - fluency:47125|time:3438
+2013.11.03 10:56:16.283 INFO  jpcap.media.CaptureLauncher$1 73 processVelocity - velocity:1833|average velocity:2365|totalDelataTime:3547
+2013.11.03 10:56:16.283 INFO  jpcap.media.CaptureLauncher$1 79 processLostPackets - lostPackets:5556|time:3547
+2013.11.03 10:56:16.284 INFO  jpcap.media.CaptureLauncher$1 84 processFluency - fluency:48250|time:3547
+2013.11.03 10:56:16.385 INFO  jpcap.media.CaptureLauncher$1 73 processVelocity - velocity:1505|average velocity:2341|totalDelataTime:3648
+2013.11.03 10:56:16.386 INFO  jpcap.media.CaptureLauncher$1 79 processLostPackets - lostPackets:5655|time:3648
+2013.11.03 10:56:16.387 INFO  jpcap.media.CaptureLauncher$1 84 processFluency - fluency:49087|time:3648
+2013.11.03 10:56:16.486 INFO  jpcap.media.CaptureLauncher$1 73 processVelocity - velocity:1703|average velocity:2324|totalDelataTime:3750
+2013.11.03 10:56:16.487 INFO  jpcap.media.CaptureLauncher$1 79 processLostPackets - lostPackets:5770|time:3750
+2013.11.03 10:56:16.487 INFO  jpcap.media.CaptureLauncher$1 84 processFluency - fluency:50058|time:3750
+2013.11.03 10:56:16.587 INFO  jpcap.media.CaptureLauncher$1 73 processVelocity - velocity:1906|average velocity:2313|totalDelataTime:3851
+2013.11.03 10:56:16.588 INFO  jpcap.media.CaptureLauncher$1 79 processLostPackets - lostPackets:5897|time:3851
+2013.11.03 10:56:16.588 INFO  jpcap.media.CaptureLauncher$1 84 processFluency - fluency:51146|time:3851
+2013.11.03 10:56:16.694 INFO  jpcap.media.CaptureLauncher$1 73 processVelocity - velocity:1806|average velocity:2300|totalDelataTime:3956
+2013.11.03 10:56:16.695 INFO  jpcap.media.CaptureLauncher$1 79 processLostPackets - lostPackets:6022|time:3956
+2013.11.03 10:56:16.695 INFO  jpcap.media.CaptureLauncher$1 84 processFluency - fluency:52212|time:3956
+2013.11.03 10:56:16.796 INFO  jpcap.media.CaptureLauncher$1 73 processVelocity - velocity:1879|average velocity:2289|totalDelataTime:4060
+2013.11.03 10:56:16.797 INFO  jpcap.media.CaptureLauncher$1 79 processLostPackets - lostPackets:6151|time:4060
+2013.11.03 10:56:16.797 INFO  jpcap.media.CaptureLauncher$1 84 processFluency - fluency:53314|time:4060
+2013.11.03 10:56:16.900 INFO  jpcap.media.CaptureLauncher$1 73 processVelocity - velocity:1785|average velocity:2276|totalDelataTime:4163
+2013.11.03 10:56:16.901 INFO  jpcap.media.CaptureLauncher$1 79 processLostPackets - lostPackets:6273|time:4163
+2013.11.03 10:56:16.901 INFO  jpcap.media.CaptureLauncher$1 84 processFluency - fluency:54346|time:4163
+2013.11.03 10:56:17.018 INFO  jpcap.media.CaptureLauncher$1 73 processVelocity - velocity:613|average velocity:2231|totalDelataTime:4281
+2013.11.03 10:56:17.018 INFO  jpcap.media.CaptureLauncher$1 79 processLostPackets - lostPackets:6321|time:4281
+2013.11.03 10:56:17.018 INFO  jpcap.media.CaptureLauncher$1 84 processFluency - fluency:54675|time:4281
+2013.11.03 10:56:17.136 INFO  jpcap.media.CaptureLauncher$1 73 processVelocity - velocity:674|average velocity:2189|totalDelataTime:4399
+2013.11.03 10:56:17.137 INFO  jpcap.media.CaptureLauncher$1 79 processLostPackets - lostPackets:6373|time:4399
+2013.11.03 10:56:17.137 INFO  jpcap.media.CaptureLauncher$1 84 processFluency - fluency:55049|time:4399
+2013.11.03 10:56:17.246 INFO  jpcap.media.CaptureLauncher$1 73 processVelocity - velocity:898|average velocity:2158|totalDelataTime:4507
+2013.11.03 10:56:17.247 INFO  jpcap.media.CaptureLauncher$1 79 processLostPackets - lostPackets:6437|time:4507
+2013.11.03 10:56:17.248 INFO  jpcap.media.CaptureLauncher$1 84 processFluency - fluency:55540|time:4507
+2013.11.03 10:56:17.358 INFO  jpcap.media.CaptureLauncher$1 73 processVelocity - velocity:901|average velocity:2127|totalDelataTime:4621
+2013.11.03 10:56:17.359 INFO  jpcap.media.CaptureLauncher$1 79 processLostPackets - lostPackets:6505|time:4621
+2013.11.03 10:56:17.359 INFO  jpcap.media.CaptureLauncher$1 84 processFluency - fluency:56060|time:4621
+2013.11.03 10:56:17.463 INFO  jpcap.media.CaptureLauncher$1 73 processVelocity - velocity:1120|average velocity:2104|totalDelataTime:4727
+2013.11.03 10:56:17.464 INFO  jpcap.media.CaptureLauncher$1 79 processLostPackets - lostPackets:6583|time:4727
+2013.11.03 10:56:17.465 INFO  jpcap.media.CaptureLauncher$1 84 processFluency - fluency:56687|time:4727
+2013.11.03 10:56:17.582 INFO  jpcap.media.CaptureLauncher$1 73 processVelocity - velocity:985|average velocity:2077|totalDelataTime:4846
+2013.11.03 10:56:17.583 INFO  jpcap.media.CaptureLauncher$1 79 processLostPackets - lostPackets:6660|time:4846
+2013.11.03 10:56:17.584 INFO  jpcap.media.CaptureLauncher$1 84 processFluency - fluency:57292|time:4846
+2013.11.03 10:56:17.689 INFO  jpcap.media.CaptureLauncher$1 73 processVelocity - velocity:1174|average velocity:2057|totalDelataTime:4952
+2013.11.03 10:56:17.690 INFO  jpcap.media.CaptureLauncher$1 79 processLostPackets - lostPackets:6742|time:4952
+2013.11.03 10:56:17.690 INFO  jpcap.media.CaptureLauncher$1 84 processFluency - fluency:57955|time:4952
+2013.11.03 10:56:17.794 INFO  jpcap.media.CaptureLauncher$1 73 processVelocity - velocity:923|average velocity:2034|totalDelataTime:5057
+2013.11.03 10:56:17.794 INFO  jpcap.media.CaptureLauncher$1 79 processLostPackets - lostPackets:6806|time:5057
+2013.11.03 10:56:17.795 INFO  jpcap.media.CaptureLauncher$1 84 processFluency - fluency:58449|time:5057
+2013.11.03 10:56:17.905 INFO  jpcap.media.CaptureLauncher$1 73 processVelocity - velocity:1060|average velocity:2013|totalDelataTime:5169
+2013.11.03 10:56:17.906 INFO  jpcap.media.CaptureLauncher$1 79 processLostPackets - lostPackets:6884|time:5169
+2013.11.03 10:56:17.906 INFO  jpcap.media.CaptureLauncher$1 84 processFluency - fluency:59070|time:5169
+2013.11.03 10:56:18.012 INFO  jpcap.media.CaptureLauncher$1 73 processVelocity - velocity:1079|average velocity:1994|totalDelataTime:5275
+2013.11.03 10:56:18.012 INFO  jpcap.media.CaptureLauncher$1 79 processLostPackets - lostPackets:6959|time:5275
+2013.11.03 10:56:18.013 INFO  jpcap.media.CaptureLauncher$1 84 processFluency - fluency:59670|time:5275
+2013.11.03 10:56:18.123 INFO  jpcap.media.CaptureLauncher$1 73 processVelocity - velocity:1187|average velocity:1977|totalDelataTime:5386
+2013.11.03 10:56:18.123 INFO  jpcap.media.CaptureLauncher$1 79 processLostPackets - lostPackets:7046|time:5386
+2013.11.03 10:56:18.123 INFO  jpcap.media.CaptureLauncher$1 84 processFluency - fluency:60372|time:5386
+2013.11.03 10:56:18.223 INFO  jpcap.media.CaptureLauncher$1 73 processVelocity - velocity:1232|average velocity:1964|totalDelataTime:5487
+2013.11.03 10:56:18.224 INFO  jpcap.media.CaptureLauncher$1 79 processLostPackets - lostPackets:7128|time:5487
+2013.11.03 10:56:18.224 INFO  jpcap.media.CaptureLauncher$1 84 processFluency - fluency:61040|time:5487
+2013.11.03 10:56:18.337 INFO  jpcap.media.CaptureLauncher$1 73 processVelocity - velocity:1243|average velocity:1950|totalDelataTime:5593
+2013.11.03 10:56:18.337 INFO  jpcap.media.CaptureLauncher$1 79 processLostPackets - lostPackets:7215|time:5593
+2013.11.03 10:56:18.337 INFO  jpcap.media.CaptureLauncher$1 84 processFluency - fluency:61747|time:5593
+2013.11.03 10:56:18.448 INFO  jpcap.media.CaptureLauncher$1 73 processVelocity - velocity:1018|average velocity:1931|totalDelataTime:5711
+2013.11.03 10:56:18.448 INFO  jpcap.media.CaptureLauncher$1 79 processLostPackets - lostPackets:7295|time:5711
+2013.11.03 10:56:18.449 INFO  jpcap.media.CaptureLauncher$1 84 processFluency - fluency:62371|time:5711
+2013.11.03 10:56:18.565 INFO  jpcap.media.CaptureLauncher$1 73 processVelocity - velocity:834|average velocity:1909|totalDelataTime:5829
+2013.11.03 10:56:18.566 INFO  jpcap.media.CaptureLauncher$1 79 processLostPackets - lostPackets:7360|time:5829
+2013.11.03 10:56:18.566 INFO  jpcap.media.CaptureLauncher$1 84 processFluency - fluency:62861|time:5829
+2013.11.03 10:56:18.684 INFO  jpcap.media.CaptureLauncher$1 73 processVelocity - velocity:785|average velocity:1886|totalDelataTime:5947
+2013.11.03 10:56:18.685 INFO  jpcap.media.CaptureLauncher$1 79 processLostPackets - lostPackets:7420|time:5947
+2013.11.03 10:56:18.685 INFO  jpcap.media.CaptureLauncher$1 84 processFluency - fluency:63315|time:5947
+2013.11.03 10:56:18.794 INFO  jpcap.media.CaptureLauncher$1 73 processVelocity - velocity:1017|average velocity:1870|totalDelataTime:6058
+2013.11.03 10:56:18.795 INFO  jpcap.media.CaptureLauncher$1 79 processLostPackets - lostPackets:7494|time:6058
+2013.11.03 10:56:18.795 INFO  jpcap.media.CaptureLauncher$1 84 processFluency - fluency:63901|time:6058
+2013.11.03 10:56:18.901 INFO  jpcap.media.CaptureLauncher$1 73 processVelocity - velocity:1092|average velocity:1857|totalDelataTime:6164
+2013.11.03 10:56:18.902 INFO  jpcap.media.CaptureLauncher$1 79 processLostPackets - lostPackets:7570|time:6164
+2013.11.03 10:56:18.902 INFO  jpcap.media.CaptureLauncher$1 84 processFluency - fluency:64510|time:6164
+2013.11.03 10:56:19.016 INFO  jpcap.media.CaptureLauncher$1 73 processVelocity - velocity:1092|average velocity:1843|totalDelataTime:6278
+2013.11.03 10:56:19.017 INFO  jpcap.media.CaptureLauncher$1 79 processLostPackets - lostPackets:7652|time:6278
+2013.11.03 10:56:19.017 INFO  jpcap.media.CaptureLauncher$1 84 processFluency - fluency:65165|time:6278
+2013.11.03 10:56:19.117 INFO  jpcap.media.CaptureLauncher$1 73 processVelocity - velocity:1209|average velocity:1833|totalDelataTime:6381
+2013.11.03 10:56:19.118 INFO  jpcap.media.CaptureLauncher$1 79 processLostPackets - lostPackets:7734|time:6381
+2013.11.03 10:56:19.119 INFO  jpcap.media.CaptureLauncher$1 84 processFluency - fluency:65831|time:6381
+2013.11.03 10:56:19.219 INFO  jpcap.media.CaptureLauncher$1 73 processVelocity - velocity:1247|average velocity:1824|totalDelataTime:6482
+2013.11.03 10:56:19.219 INFO  jpcap.media.CaptureLauncher$1 79 processLostPackets - lostPackets:7817|time:6482
+2013.11.03 10:56:19.219 INFO  jpcap.media.CaptureLauncher$1 84 processFluency - fluency:66507|time:6482
+2013.11.03 10:56:19.331 INFO  jpcap.media.CaptureLauncher$1 73 processVelocity - velocity:1367|average velocity:1816|totalDelataTime:6590
+2013.11.03 10:56:19.331 INFO  jpcap.media.CaptureLauncher$1 79 processLostPackets - lostPackets:7915|time:6590
+2013.11.03 10:56:19.331 INFO  jpcap.media.CaptureLauncher$1 84 processFluency - fluency:67311|time:6590
+2013.11.03 10:56:19.439 INFO  jpcap.media.CaptureLauncher$1 73 processVelocity - velocity:1564|average velocity:1812|totalDelataTime:6702
+2013.11.03 10:56:19.439 INFO  jpcap.media.CaptureLauncher$1 79 processLostPackets - lostPackets:8031|time:6702
+2013.11.03 10:56:19.439 INFO  jpcap.media.CaptureLauncher$1 84 processFluency - fluency:68281|time:6702
+2013.11.03 10:56:19.543 INFO  jpcap.media.CaptureLauncher$1 73 processVelocity - velocity:1336|average velocity:1805|totalDelataTime:6806
+2013.11.03 10:56:19.543 INFO  jpcap.media.CaptureLauncher$1 79 processLostPackets - lostPackets:8123|time:6806
+2013.11.03 10:56:19.544 INFO  jpcap.media.CaptureLauncher$1 84 processFluency - fluency:69035|time:6806
+2013.11.03 10:56:19.645 INFO  jpcap.media.CaptureLauncher$1 73 processVelocity - velocity:1448|average velocity:1799|totalDelataTime:6907
+2013.11.03 10:56:19.645 INFO  jpcap.media.CaptureLauncher$1 79 processLostPackets - lostPackets:8220|time:6907
+2013.11.03 10:56:19.645 INFO  jpcap.media.CaptureLauncher$1 84 processFluency - fluency:69837|time:6907
+2013.11.03 10:56:19.749 INFO  jpcap.media.CaptureLauncher$1 73 processVelocity - velocity:1529|average velocity:1795|totalDelataTime:7013
+2013.11.03 10:56:19.750 INFO  jpcap.media.CaptureLauncher$1 79 processLostPackets - lostPackets:8327|time:7013
+2013.11.03 10:56:19.750 INFO  jpcap.media.CaptureLauncher$1 84 processFluency - fluency:70732|time:7013
+2013.11.03 10:56:19.852 INFO  jpcap.media.CaptureLauncher$1 73 processVelocity - velocity:1562|average velocity:1792|totalDelataTime:7114
+2013.11.03 10:56:19.852 INFO  jpcap.media.CaptureLauncher$1 79 processLostPackets - lostPackets:8431|time:7114
+2013.11.03 10:56:19.852 INFO  jpcap.media.CaptureLauncher$1 84 processFluency - fluency:71605|time:7114
+2013.11.03 10:56:19.951 INFO  jpcap.media.CaptureLauncher$1 73 processVelocity - velocity:1677|average velocity:1790|totalDelataTime:7215
+2013.11.03 10:56:19.951 INFO  jpcap.media.CaptureLauncher$1 79 processLostPackets - lostPackets:8543|time:7215
+2013.11.03 10:56:19.952 INFO  jpcap.media.CaptureLauncher$1 84 processFluency - fluency:72550|time:7215
+2013.11.03 10:56:20.054 INFO  jpcap.media.CaptureLauncher$1 73 processVelocity - velocity:1462|average velocity:1786|totalDelataTime:7317
+2013.11.03 10:56:20.054 INFO  jpcap.media.CaptureLauncher$1 79 processLostPackets - lostPackets:8642|time:7317
+2013.11.03 10:56:20.055 INFO  jpcap.media.CaptureLauncher$1 84 processFluency - fluency:73368|time:7317
+2013.11.03 10:56:20.165 INFO  jpcap.media.CaptureLauncher$1 73 processVelocity - velocity:1396|average velocity:1780|totalDelataTime:7429
+2013.11.03 10:56:20.165 INFO  jpcap.media.CaptureLauncher$1 79 processLostPackets - lostPackets:8745|time:7429
+2013.11.03 10:56:20.165 INFO  jpcap.media.CaptureLauncher$1 84 processFluency - fluency:74222|time:7429
+2013.11.03 10:56:20.268 INFO  jpcap.media.CaptureLauncher$1 73 processVelocity - velocity:1391|average velocity:1775|totalDelataTime:7531
+2013.11.03 10:56:20.269 INFO  jpcap.media.CaptureLauncher$1 79 processLostPackets - lostPackets:8839|time:7531
+2013.11.03 10:56:20.269 INFO  jpcap.media.CaptureLauncher$1 84 processFluency - fluency:74996|time:7531
+2013.11.03 10:56:20.374 INFO  jpcap.media.CaptureLauncher$1 73 processVelocity - velocity:1407|average velocity:1770|totalDelataTime:7637
+2013.11.03 10:56:20.374 INFO  jpcap.media.CaptureLauncher$1 79 processLostPackets - lostPackets:8938|time:7637
+2013.11.03 10:56:20.374 INFO  jpcap.media.CaptureLauncher$1 84 processFluency - fluency:75810|time:7637
+2013.11.03 10:56:20.476 INFO  jpcap.media.CaptureLauncher$1 73 processVelocity - velocity:1448|average velocity:1765|totalDelataTime:7739
+2013.11.03 10:56:20.476 INFO  jpcap.media.CaptureLauncher$1 79 processLostPackets - lostPackets:9036|time:7739
+2013.11.03 10:56:20.476 INFO  jpcap.media.CaptureLauncher$1 84 processFluency - fluency:76620|time:7739
+2013.11.03 10:56:20.576 INFO  jpcap.media.CaptureLauncher$1 73 processVelocity - velocity:1390|average velocity:1761|totalDelataTime:7840
+2013.11.03 10:56:20.577 INFO  jpcap.media.CaptureLauncher$1 79 processLostPackets - lostPackets:9129|time:7840
+2013.11.03 10:56:20.577 INFO  jpcap.media.CaptureLauncher$1 84 processFluency - fluency:77386|time:7840
+2013.11.03 10:56:20.685 INFO  jpcap.media.CaptureLauncher$1 73 processVelocity - velocity:1461|average velocity:1757|totalDelataTime:7947
+2013.11.03 10:56:20.685 INFO  jpcap.media.CaptureLauncher$1 79 processLostPackets - lostPackets:9232|time:7947
+2013.11.03 10:56:20.685 INFO  jpcap.media.CaptureLauncher$1 84 processFluency - fluency:78244|time:7947
+2013.11.03 10:56:20.789 INFO  jpcap.media.CaptureLauncher$1 73 processVelocity - velocity:1625|average velocity:1755|totalDelataTime:8053
+2013.11.03 10:56:20.790 INFO  jpcap.media.CaptureLauncher$1 79 processLostPackets - lostPackets:9346|time:8053
+2013.11.03 10:56:20.790 INFO  jpcap.media.CaptureLauncher$1 84 processFluency - fluency:79202|time:8053
+2013.11.03 10:56:20.894 INFO  jpcap.media.CaptureLauncher$1 73 processVelocity - velocity:1615|average velocity:1753|totalDelataTime:8157
+2013.11.03 10:56:20.895 INFO  jpcap.media.CaptureLauncher$1 79 processLostPackets - lostPackets:9457|time:8157
+2013.11.03 10:56:20.895 INFO  jpcap.media.CaptureLauncher$1 84 processFluency - fluency:80135|time:8157
+2013.11.03 10:56:20.998 INFO  jpcap.media.CaptureLauncher$1 73 processVelocity - velocity:1504|average velocity:1750|totalDelataTime:8260
+2013.11.03 10:56:20.999 INFO  jpcap.media.CaptureLauncher$1 79 processLostPackets - lostPackets:9560|time:8260
+2013.11.03 10:56:21.000 INFO  jpcap.media.CaptureLauncher$1 84 processFluency - fluency:80988|time:8260
+2013.11.03 10:56:21.105 INFO  jpcap.media.CaptureLauncher$1 73 processVelocity - velocity:876|average velocity:1739|totalDelataTime:8369
+2013.11.03 10:56:21.106 INFO  jpcap.media.CaptureLauncher$1 79 processLostPackets - lostPackets:9622|time:8369
+2013.11.03 10:56:21.106 INFO  jpcap.media.CaptureLauncher$1 84 processFluency - fluency:81469|time:8369
+2013.11.03 10:56:21.207 INFO  jpcap.media.CaptureLauncher$1 73 processVelocity - velocity:1390|average velocity:1734|totalDelataTime:8470
+2013.11.03 10:56:21.207 INFO  jpcap.media.CaptureLauncher$1 79 processLostPackets - lostPackets:9715|time:8470
+2013.11.03 10:56:21.207 INFO  jpcap.media.CaptureLauncher$1 84 processFluency - fluency:82235|time:8470
+2013.11.03 10:56:21.313 INFO  jpcap.media.CaptureLauncher$1 73 processVelocity - velocity:1117|average velocity:1727|totalDelataTime:8575
+2013.11.03 10:56:21.314 INFO  jpcap.media.CaptureLauncher$1 79 processLostPackets - lostPackets:9792|time:8575
+2013.11.03 10:56:21.315 INFO  jpcap.media.CaptureLauncher$1 84 processFluency - fluency:82854|time:8575
+2013.11.03 10:56:21.424 INFO  jpcap.media.CaptureLauncher$1 73 processVelocity - velocity:935|average velocity:1717|totalDelataTime:8688
+2013.11.03 10:56:21.424 INFO  jpcap.media.CaptureLauncher$1 79 processLostPackets - lostPackets:9862|time:8688
+2013.11.03 10:56:21.425 INFO  jpcap.media.CaptureLauncher$1 84 processFluency - fluency:83394|time:8688
+2013.11.03 10:56:21.527 INFO  jpcap.media.CaptureLauncher$1 73 processVelocity - velocity:1121|average velocity:1710|totalDelataTime:8790
+2013.11.03 10:56:21.528 INFO  jpcap.media.CaptureLauncher$1 79 processLostPackets - lostPackets:9937|time:8790
+2013.11.03 10:56:21.529 INFO  jpcap.media.CaptureLauncher$1 84 processFluency - fluency:83998|time:8790
+2013.11.03 10:56:21.627 INFO  jpcap.media.CaptureLauncher$1 73 processVelocity - velocity:1118|average velocity:1703|totalDelataTime:8891
+2013.11.03 10:56:21.628 INFO  jpcap.media.CaptureLauncher$1 79 processLostPackets - lostPackets:10011|time:8891
+2013.11.03 10:56:21.628 INFO  jpcap.media.CaptureLauncher$1 84 processFluency - fluency:84594|time:8891
+2013.11.03 10:56:21.728 INFO  jpcap.media.CaptureLauncher$1 73 processVelocity - velocity:1103|average velocity:1696|totalDelataTime:8992
+2013.11.03 10:56:21.728 INFO  jpcap.media.CaptureLauncher$1 79 processLostPackets - lostPackets:10085|time:8992
+2013.11.03 10:56:21.729 INFO  jpcap.media.CaptureLauncher$1 84 processFluency - fluency:85181|time:8992
+2013.11.03 10:56:21.844 INFO  jpcap.media.CaptureLauncher$1 73 processVelocity - velocity:1176|average velocity:1690|totalDelataTime:9104
+2013.11.03 10:56:21.844 INFO  jpcap.media.CaptureLauncher$1 79 processLostPackets - lostPackets:10173|time:9104
+2013.11.03 10:56:21.844 INFO  jpcap.media.CaptureLauncher$1 84 processFluency - fluency:85883|time:9104
+2013.11.03 10:56:21.943 INFO  jpcap.media.CaptureLauncher$1 73 processVelocity - velocity:843|average velocity:1680|totalDelataTime:9207
+2013.11.03 10:56:21.943 INFO  jpcap.media.CaptureLauncher$1 79 processLostPackets - lostPackets:10230|time:9207
+2013.11.03 10:56:21.943 INFO  jpcap.media.CaptureLauncher$1 84 processFluency - fluency:86316|time:9207
+2013.11.03 10:56:22.060 INFO  jpcap.media.CaptureLauncher$1 73 processVelocity - velocity:631|average velocity:1667|totalDelataTime:9324
+2013.11.03 10:56:22.061 INFO  jpcap.media.CaptureLauncher$1 79 processLostPackets - lostPackets:10278|time:9324
+2013.11.03 10:56:22.061 INFO  jpcap.media.CaptureLauncher$1 84 processFluency - fluency:86655|time:9324
+2013.11.03 10:56:22.177 INFO  jpcap.media.CaptureLauncher$1 73 processVelocity - velocity:674|average velocity:1655|totalDelataTime:9440
+2013.11.03 10:56:22.177 INFO  jpcap.media.CaptureLauncher$1 79 processLostPackets - lostPackets:10329|time:9440
+2013.11.03 10:56:22.178 INFO  jpcap.media.CaptureLauncher$1 84 processFluency - fluency:87021|time:9440
+2013.11.03 10:56:22.279 INFO  jpcap.media.CaptureLauncher$1 73 processVelocity - velocity:857|average velocity:1646|totalDelataTime:9543
+2013.11.03 10:56:22.279 INFO  jpcap.media.CaptureLauncher$1 79 processLostPackets - lostPackets:10388|time:9543
+2013.11.03 10:56:22.279 INFO  jpcap.media.CaptureLauncher$1 84 processFluency - fluency:87464|time:9543
+2013.11.03 10:56:22.398 INFO  jpcap.media.CaptureLauncher$1 73 processVelocity - velocity:478|average velocity:1632|totalDelataTime:9661
+2013.11.03 10:56:22.398 INFO  jpcap.media.CaptureLauncher$1 79 processLostPackets - lostPackets:10424|time:9661
+2013.11.03 10:56:22.400 INFO  jpcap.media.CaptureLauncher$1 84 processFluency - fluency:87694|time:9661
+2013.11.03 10:56:22.517 INFO  jpcap.media.CaptureLauncher$1 73 processVelocity - velocity:511|average velocity:1618|totalDelataTime:9780
+2013.11.03 10:56:22.517 INFO  jpcap.media.CaptureLauncher$1 79 processLostPackets - lostPackets:10464|time:9780
+2013.11.03 10:56:22.517 INFO  jpcap.media.CaptureLauncher$1 84 processFluency - fluency:87951|time:9780
+2013.11.03 10:56:22.623 INFO  jpcap.media.CaptureLauncher$1 73 processVelocity - velocity:592|average velocity:1607|totalDelataTime:9885
+2013.11.03 10:56:22.624 INFO  jpcap.media.CaptureLauncher$1 79 processLostPackets - lostPackets:10505|time:9885
+2013.11.03 10:56:22.624 INFO  jpcap.media.CaptureLauncher$1 84 processFluency - fluency:88230|time:9885
+2013.11.03 10:56:22.736 INFO  jpcap.media.CaptureLauncher$1 73 processVelocity - velocity:724|average velocity:1597|totalDelataTime:9999
+2013.11.03 10:56:22.736 INFO  jpcap.media.CaptureLauncher$1 79 processLostPackets - lostPackets:10559|time:9999
+2013.11.03 10:56:22.736 INFO  jpcap.media.CaptureLauncher$1 84 processFluency - fluency:88625|time:9999
+2013.11.03 10:56:22.853 INFO  jpcap.media.CaptureLauncher$1 73 processVelocity - velocity:891|average velocity:1589|totalDelataTime:10116
+2013.11.03 10:56:22.853 INFO  jpcap.media.CaptureLauncher$1 79 processLostPackets - lostPackets:10628|time:10116
+2013.11.03 10:56:22.853 INFO  jpcap.media.CaptureLauncher$1 84 processFluency - fluency:89152|time:10116
+2013.11.03 10:56:22.970 INFO  jpcap.media.CaptureLauncher$1 73 processVelocity - velocity:981|average velocity:1582|totalDelataTime:10234
+2013.11.03 10:56:22.970 INFO  jpcap.media.CaptureLauncher$1 79 processLostPackets - lostPackets:10704|time:10234
+2013.11.03 10:56:22.971 INFO  jpcap.media.CaptureLauncher$1 84 processFluency - fluency:89749|time:10234
+2013.11.03 10:56:23.086 INFO  jpcap.media.CaptureLauncher$1 73 processVelocity - velocity:1098|average velocity:1577|totalDelataTime:10350
+2013.11.03 10:56:23.087 INFO  jpcap.media.CaptureLauncher$1 79 processLostPackets - lostPackets:10788|time:10350
+2013.11.03 10:56:23.087 INFO  jpcap.media.CaptureLauncher$1 84 processFluency - fluency:90420|time:10350
+2013.11.03 10:56:23.189 INFO  jpcap.media.CaptureLauncher$1 73 processVelocity - velocity:1560|average velocity:1577|totalDelataTime:10453
+2013.11.03 10:56:23.190 INFO  jpcap.media.CaptureLauncher$1 79 processLostPackets - lostPackets:10894|time:10453
+2013.11.03 10:56:23.190 INFO  jpcap.media.CaptureLauncher$1 84 processFluency - fluency:91309|time:10453
+2013.11.03 10:56:23.297 INFO  jpcap.media.CaptureLauncher$1 73 processVelocity - velocity:1944|average velocity:1580|totalDelataTime:10555
+2013.11.03 10:56:23.299 INFO  jpcap.media.CaptureLauncher$1 79 processLostPackets - lostPackets:11025|time:10555
+2013.11.03 10:56:23.300 INFO  jpcap.media.CaptureLauncher$1 84 processFluency - fluency:92431|time:10555
+2013.11.03 10:56:23.408 INFO  jpcap.media.CaptureLauncher$1 73 processVelocity - velocity:2495|average velocity:1590|totalDelataTime:10667
+2013.11.03 10:56:23.409 INFO  jpcap.media.CaptureLauncher$1 79 processLostPackets - lostPackets:11210|time:10667
+2013.11.03 10:56:23.409 INFO  jpcap.media.CaptureLauncher$1 84 processFluency - fluency:94044|time:10667
+2013.11.03 10:56:23.507 INFO  jpcap.media.CaptureLauncher$1 73 processVelocity - velocity:3522|average velocity:1608|totalDelataTime:10771
+2013.11.03 10:56:23.508 INFO  jpcap.media.CaptureLauncher$1 79 processLostPackets - lostPackets:11453|time:10771
+2013.11.03 10:56:23.508 INFO  jpcap.media.CaptureLauncher$1 84 processFluency - fluency:96202|time:10771
+2013.11.03 10:56:23.608 INFO  jpcap.media.CaptureLauncher$1 73 processVelocity - velocity:4817|average velocity:1638|totalDelataTime:10872
+2013.11.03 10:56:23.609 INFO  jpcap.media.CaptureLauncher$1 79 processLostPackets - lostPackets:11777|time:10872
+2013.11.03 10:56:23.609 INFO  jpcap.media.CaptureLauncher$1 84 processFluency - fluency:99104|time:10872
+2013.11.03 10:56:23.710 INFO  jpcap.media.CaptureLauncher$1 73 processVelocity - velocity:3364|average velocity:1654|totalDelataTime:10974
+2013.11.03 10:56:23.711 INFO  jpcap.media.CaptureLauncher$1 79 processLostPackets - lostPackets:12003|time:10974
+2013.11.03 10:56:23.712 INFO  jpcap.media.CaptureLauncher$1 84 processFluency - fluency:101120|time:10974
+2013.11.03 10:56:23.812 INFO  jpcap.media.CaptureLauncher$1 73 processVelocity - velocity:4528|average velocity:1681|totalDelataTime:11076
+2013.11.03 10:56:23.813 INFO  jpcap.media.CaptureLauncher$1 79 processLostPackets - lostPackets:12309|time:11076
+2013.11.03 10:56:23.813 INFO  jpcap.media.CaptureLauncher$1 84 processFluency - fluency:103870|time:11076
+2013.11.03 10:56:23.913 INFO  jpcap.media.CaptureLauncher$1 73 processVelocity - velocity:4559|average velocity:1707|totalDelataTime:11177
+2013.11.03 10:56:23.914 INFO  jpcap.media.CaptureLauncher$1 79 processLostPackets - lostPackets:12616|time:11177
+2013.11.03 10:56:23.914 INFO  jpcap.media.CaptureLauncher$1 84 processFluency - fluency:106611|time:11177
+2013.11.03 10:56:24.025 INFO  jpcap.media.CaptureLauncher$1 73 processVelocity - velocity:2273|average velocity:1712|totalDelataTime:11284
+2013.11.03 10:56:24.025 INFO  jpcap.media.CaptureLauncher$1 79 processLostPackets - lostPackets:12775|time:11284
+2013.11.03 10:56:24.025 INFO  jpcap.media.CaptureLauncher$1 84 processFluency - fluency:108006|time:11284
+2013.11.03 10:56:24.131 INFO  jpcap.media.CaptureLauncher$1 73 processVelocity - velocity:2764|average velocity:1722|totalDelataTime:11394
+2013.11.03 10:56:24.132 INFO  jpcap.media.CaptureLauncher$1 79 processLostPackets - lostPackets:12976|time:11394
+2013.11.03 10:56:24.132 INFO  jpcap.media.CaptureLauncher$1 84 processFluency - fluency:109773|time:11394
+2013.11.03 10:56:24.234 INFO  jpcap.media.CaptureLauncher$1 73 processVelocity - velocity:2617|average velocity:1730|totalDelataTime:11498
+2013.11.03 10:56:24.234 INFO  jpcap.media.CaptureLauncher$1 79 processLostPackets - lostPackets:13156|time:11498
+2013.11.03 10:56:24.235 INFO  jpcap.media.CaptureLauncher$1 84 processFluency - fluency:111349|time:11498
+2013.11.03 10:56:24.338 INFO  jpcap.media.CaptureLauncher$1 73 processVelocity - velocity:2257|average velocity:1735|totalDelataTime:11600
+2013.11.03 10:56:24.339 INFO  jpcap.media.CaptureLauncher$1 79 processLostPackets - lostPackets:13308|time:11600
+2013.11.03 10:56:24.339 INFO  jpcap.media.CaptureLauncher$1 84 processFluency - fluency:112668|time:11600
+2013.11.03 10:56:24.438 INFO  jpcap.media.CaptureLauncher$1 73 processVelocity - velocity:2441|average velocity:1741|totalDelataTime:11702
+2013.11.03 10:56:24.440 INFO  jpcap.media.CaptureLauncher$1 79 processLostPackets - lostPackets:13473|time:11702
+2013.11.03 10:56:24.440 INFO  jpcap.media.CaptureLauncher$1 84 processFluency - fluency:114104|time:11702
+2013.11.03 10:56:24.542 INFO  jpcap.media.CaptureLauncher$1 73 processVelocity - velocity:2319|average velocity:1746|totalDelataTime:11805
+2013.11.03 10:56:24.542 INFO  jpcap.media.CaptureLauncher$1 79 processLostPackets - lostPackets:13631|time:11805
+2013.11.03 10:56:24.542 INFO  jpcap.media.CaptureLauncher$1 84 processFluency - fluency:115475|time:11805
+2013.11.03 10:56:24.658 INFO  jpcap.media.CaptureLauncher$1 73 processVelocity - velocity:2558|average velocity:1753|totalDelataTime:11908
+2013.11.03 10:56:24.661 INFO  jpcap.media.CaptureLauncher$1 79 processLostPackets - lostPackets:13805|time:11908
+2013.11.03 10:56:24.661 INFO  jpcap.media.CaptureLauncher$1 84 processFluency - fluency:116999|time:11908
+2013.11.03 10:56:24.746 INFO  jpcap.media.CaptureLauncher$1 73 processVelocity - velocity:2512|average velocity:1760|totalDelataTime:12010
+2013.11.03 10:56:24.747 INFO  jpcap.media.CaptureLauncher$1 79 processLostPackets - lostPackets:13975|time:12010
+2013.11.03 10:56:24.749 INFO  jpcap.media.CaptureLauncher$1 84 processFluency - fluency:118479|time:12010
+2013.11.03 10:56:24.852 INFO  jpcap.media.CaptureLauncher$1 73 processVelocity - velocity:1875|average velocity:1761|totalDelataTime:12115
+2013.11.03 10:56:24.852 INFO  jpcap.media.CaptureLauncher$1 79 processLostPackets - lostPackets:14105|time:12115
+2013.11.03 10:56:24.852 INFO  jpcap.media.CaptureLauncher$1 84 processFluency - fluency:119590|time:12115
+2013.11.03 10:56:24.954 INFO  jpcap.media.CaptureLauncher$1 73 processVelocity - velocity:2101|average velocity:1763|totalDelataTime:12217
+2013.11.03 10:56:24.955 INFO  jpcap.media.CaptureLauncher$1 79 processLostPackets - lostPackets:14247|time:12217
+2013.11.03 10:56:24.955 INFO  jpcap.media.CaptureLauncher$1 84 processFluency - fluency:120811|time:12217
+2013.11.03 10:56:25.058 INFO  jpcap.media.CaptureLauncher$1 73 processVelocity - velocity:1907|average velocity:1765|totalDelataTime:12321
+2013.11.03 10:56:25.058 INFO  jpcap.media.CaptureLauncher$1 79 processLostPackets - lostPackets:14378|time:12321
+2013.11.03 10:56:25.058 INFO  jpcap.media.CaptureLauncher$1 84 processFluency - fluency:121931|time:12321
+2013.11.03 10:56:25.168 INFO  jpcap.media.CaptureLauncher$1 73 processVelocity - velocity:2119|average velocity:1768|totalDelataTime:12431
+2013.11.03 10:56:25.168 INFO  jpcap.media.CaptureLauncher$1 79 processLostPackets - lostPackets:14532|time:12431
+2013.11.03 10:56:25.168 INFO  jpcap.media.CaptureLauncher$1 84 processFluency - fluency:123260|time:12431
+2013.11.03 10:56:25.270 INFO  jpcap.media.CaptureLauncher$1 73 processVelocity - velocity:2342|average velocity:1772|totalDelataTime:12533
+2013.11.03 10:56:25.271 INFO  jpcap.media.CaptureLauncher$1 79 processLostPackets - lostPackets:14690|time:12533
+2013.11.03 10:56:25.272 INFO  jpcap.media.CaptureLauncher$1 84 processFluency - fluency:124633|time:12533
+2013.11.03 10:56:25.372 INFO  jpcap.media.CaptureLauncher$1 73 processVelocity - velocity:2143|average velocity:1775|totalDelataTime:12635
+2013.11.03 10:56:25.372 INFO  jpcap.media.CaptureLauncher$1 79 processLostPackets - lostPackets:14835|time:12635
+2013.11.03 10:56:25.373 INFO  jpcap.media.CaptureLauncher$1 84 processFluency - fluency:125881|time:12635
+2013.11.03 10:56:25.483 INFO  jpcap.media.CaptureLauncher$1 73 processVelocity - velocity:2145|average velocity:1779|totalDelataTime:12745
+2013.11.03 10:56:25.483 INFO  jpcap.media.CaptureLauncher$1 79 processLostPackets - lostPackets:14991|time:12745
+2013.11.03 10:56:25.483 INFO  jpcap.media.CaptureLauncher$1 84 processFluency - fluency:127228|time:12745
+2013.11.03 10:56:25.583 INFO  jpcap.media.CaptureLauncher$1 73 processVelocity - velocity:2379|average velocity:1783|totalDelataTime:12846
+2013.11.03 10:56:25.584 INFO  jpcap.media.CaptureLauncher$1 79 processLostPackets - lostPackets:15150|time:12846
+2013.11.03 10:56:25.584 INFO  jpcap.media.CaptureLauncher$1 84 processFluency - fluency:128611|time:12846
+2013.11.03 10:56:25.686 INFO  jpcap.media.CaptureLauncher$1 73 processVelocity - velocity:2319|average velocity:1788|totalDelataTime:12949
+2013.11.03 10:56:25.686 INFO  jpcap.media.CaptureLauncher$1 79 processLostPackets - lostPackets:15308|time:12949
+2013.11.03 10:56:25.686 INFO  jpcap.media.CaptureLauncher$1 84 processFluency - fluency:129982|time:12949
+2013.11.03 10:56:25.787 INFO  jpcap.media.CaptureLauncher$1 73 processVelocity - velocity:2494|average velocity:1793|totalDelataTime:13050
+2013.11.03 10:56:25.787 INFO  jpcap.media.CaptureLauncher$1 79 processLostPackets - lostPackets:15475|time:13050
+2013.11.03 10:56:25.788 INFO  jpcap.media.CaptureLauncher$1 84 processFluency - fluency:131437|time:13050
+2013.11.03 10:56:25.888 INFO  jpcap.media.CaptureLauncher$1 73 processVelocity - velocity:2035|average velocity:1795|totalDelataTime:13151
+2013.11.03 10:56:25.888 INFO  jpcap.media.CaptureLauncher$1 79 processLostPackets - lostPackets:15611|time:13151
+2013.11.03 10:56:25.888 INFO  jpcap.media.CaptureLauncher$1 84 processFluency - fluency:132605|time:13151
+2013.11.03 10:56:25.994 INFO  jpcap.media.CaptureLauncher$1 73 processVelocity - velocity:2691|average velocity:1802|totalDelataTime:13257
+2013.11.03 10:56:25.995 INFO  jpcap.media.CaptureLauncher$1 79 processLostPackets - lostPackets:15800|time:13257
+2013.11.03 10:56:25.995 INFO  jpcap.media.CaptureLauncher$1 84 processFluency - fluency:134260|time:13257
+2013.11.03 10:56:26.094 INFO  jpcap.media.CaptureLauncher$1 73 processVelocity - velocity:2508|average velocity:1807|totalDelataTime:13358
+2013.11.03 10:56:26.095 INFO  jpcap.media.CaptureLauncher$1 79 processLostPackets - lostPackets:15968|time:13358
+2013.11.03 10:56:26.095 INFO  jpcap.media.CaptureLauncher$1 84 processFluency - fluency:135723|time:13358
+2013.11.03 10:56:26.195 INFO  jpcap.media.CaptureLauncher$1 73 processVelocity - velocity:2637|average velocity:1814|totalDelataTime:13459
+2013.11.03 10:56:26.198 INFO  jpcap.media.CaptureLauncher$1 79 processLostPackets - lostPackets:16144|time:13459
+2013.11.03 10:56:26.198 INFO  jpcap.media.CaptureLauncher$1 84 processFluency - fluency:137267|time:13459
+2013.11.03 10:56:26.301 INFO  jpcap.media.CaptureLauncher$1 73 processVelocity - velocity:2799|average velocity:1821|totalDelataTime:13564
+2013.11.03 10:56:26.301 INFO  jpcap.media.CaptureLauncher$1 79 processLostPackets - lostPackets:16339|time:13564
+2013.11.03 10:56:26.302 INFO  jpcap.media.CaptureLauncher$1 84 processFluency - fluency:138976|time:13564
+2013.11.03 10:56:26.413 INFO  jpcap.media.CaptureLauncher$1 73 processVelocity - velocity:3025|average velocity:1831|totalDelataTime:13676
+2013.11.03 10:56:26.413 INFO  jpcap.media.CaptureLauncher$1 79 processLostPackets - lostPackets:16563|time:13676
+2013.11.03 10:56:26.415 INFO  jpcap.media.CaptureLauncher$1 84 processFluency - fluency:140956|time:13676
+2013.11.03 10:56:26.515 INFO  jpcap.media.CaptureLauncher$1 73 processVelocity - velocity:2356|average velocity:1835|totalDelataTime:13778
+2013.11.03 10:56:26.515 INFO  jpcap.media.CaptureLauncher$1 79 processLostPackets - lostPackets:16722|time:13778
+2013.11.03 10:56:26.515 INFO  jpcap.media.CaptureLauncher$1 84 processFluency - fluency:142337|time:13778
+2013.11.03 10:56:26.615 INFO  jpcap.media.CaptureLauncher$1 73 processVelocity - velocity:2781|average velocity:1842|totalDelataTime:13879
+2013.11.03 10:56:26.616 INFO  jpcap.media.CaptureLauncher$1 79 processLostPackets - lostPackets:16908|time:13879
+2013.11.03 10:56:26.616 INFO  jpcap.media.CaptureLauncher$1 84 processFluency - fluency:143970|time:13879
+2013.11.03 10:56:26.717 INFO  jpcap.media.CaptureLauncher$1 73 processVelocity - velocity:2551|average velocity:1847|totalDelataTime:13980
+2013.11.03 10:56:26.718 INFO  jpcap.media.CaptureLauncher$1 79 processLostPackets - lostPackets:17079|time:13980
+2013.11.03 10:56:26.718 INFO  jpcap.media.CaptureLauncher$1 84 processFluency - fluency:145460|time:13980
+2013.11.03 10:56:26.820 INFO  jpcap.media.CaptureLauncher$1 73 processVelocity - velocity:1533|average velocity:1845|totalDelataTime:14082
+2013.11.03 10:56:26.820 INFO  jpcap.media.CaptureLauncher$1 79 processLostPackets - lostPackets:17182|time:14082
+2013.11.03 10:56:26.820 INFO  jpcap.media.CaptureLauncher$1 84 processFluency - fluency:146324|time:14082
+2013.11.03 10:56:26.930 INFO  jpcap.media.CaptureLauncher$1 73 processVelocity - velocity:1952|average velocity:1846|totalDelataTime:14194
+2013.11.03 10:56:26.930 INFO  jpcap.media.CaptureLauncher$1 79 processLostPackets - lostPackets:17327|time:14194
+2013.11.03 10:56:26.930 INFO  jpcap.media.CaptureLauncher$1 84 processFluency - fluency:147561|time:14194
+2013.11.03 10:56:27.033 INFO  jpcap.media.CaptureLauncher$1 73 processVelocity - velocity:1987|average velocity:1847|totalDelataTime:14296
+2013.11.03 10:56:27.033 INFO  jpcap.media.CaptureLauncher$1 79 processLostPackets - lostPackets:17461|time:14296
+2013.11.03 10:56:27.033 INFO  jpcap.media.CaptureLauncher$1 84 processFluency - fluency:148711|time:14296
+2013.11.03 10:56:27.134 INFO  jpcap.media.CaptureLauncher$1 73 processVelocity - velocity:1964|average velocity:1847|totalDelataTime:14397
+2013.11.03 10:56:27.134 INFO  jpcap.media.CaptureLauncher$1 79 processLostPackets - lostPackets:17592|time:14397
+2013.11.03 10:56:27.134 INFO  jpcap.media.CaptureLauncher$1 84 processFluency - fluency:149834|time:14397
+2013.11.03 10:56:27.236 INFO  jpcap.media.CaptureLauncher$1 73 processVelocity - velocity:1644|average velocity:1846|totalDelataTime:14500
+2013.11.03 10:56:27.236 INFO  jpcap.media.CaptureLauncher$1 79 processLostPackets - lostPackets:17704|time:14500
+2013.11.03 10:56:27.237 INFO  jpcap.media.CaptureLauncher$1 84 processFluency - fluency:150777|time:14500
+2013.11.03 10:56:27.346 INFO  jpcap.media.CaptureLauncher$1 73 processVelocity - velocity:1619|average velocity:1844|totalDelataTime:14610
+2013.11.03 10:56:27.347 INFO  jpcap.media.CaptureLauncher$1 79 processLostPackets - lostPackets:17822|time:14610
+2013.11.03 10:56:27.347 INFO  jpcap.media.CaptureLauncher$1 84 processFluency - fluency:151766|time:14610
+2013.11.03 10:56:27.452 INFO  jpcap.media.CaptureLauncher$1 73 processVelocity - velocity:1723|average velocity:1843|totalDelataTime:14715
+2013.11.03 10:56:27.452 INFO  jpcap.media.CaptureLauncher$1 79 processLostPackets - lostPackets:17942|time:14715
+2013.11.03 10:56:27.452 INFO  jpcap.media.CaptureLauncher$1 84 processFluency - fluency:152779|time:14715
+2013.11.03 10:56:27.559 INFO  jpcap.media.CaptureLauncher$1 73 processVelocity - velocity:1556|average velocity:1841|totalDelataTime:14822
+2013.11.03 10:56:27.559 INFO  jpcap.media.CaptureLauncher$1 79 processLostPackets - lostPackets:18052|time:14822
+2013.11.03 10:56:27.559 INFO  jpcap.media.CaptureLauncher$1 84 processFluency - fluency:153700|time:14822
+2013.11.03 10:56:27.664 INFO  jpcap.media.CaptureLauncher$1 73 processVelocity - velocity:1406|average velocity:1838|totalDelataTime:14927
+2013.11.03 10:56:27.665 INFO  jpcap.media.CaptureLauncher$1 79 processLostPackets - lostPackets:18150|time:14927
+2013.11.03 10:56:27.665 INFO  jpcap.media.CaptureLauncher$1 84 processFluency - fluency:154506|time:14927
+2013.11.03 10:56:27.770 INFO  jpcap.media.CaptureLauncher$1 73 processVelocity - velocity:1379|average velocity:1835|totalDelataTime:15032
+2013.11.03 10:56:27.770 INFO  jpcap.media.CaptureLauncher$1 79 processLostPackets - lostPackets:18246|time:15032
+2013.11.03 10:56:27.770 INFO  jpcap.media.CaptureLauncher$1 84 processFluency - fluency:155295|time:15032
+2013.11.03 10:56:27.879 INFO  jpcap.media.CaptureLauncher$1 73 processVelocity - velocity:1553|average velocity:1833|totalDelataTime:15142
+2013.11.03 10:56:27.880 INFO  jpcap.media.CaptureLauncher$1 79 processLostPackets - lostPackets:18359|time:15142
+2013.11.03 10:56:27.880 INFO  jpcap.media.CaptureLauncher$1 84 processFluency - fluency:156240|time:15142
+2013.11.03 10:56:27.985 INFO  jpcap.media.CaptureLauncher$1 73 processVelocity - velocity:1042|average velocity:1828|totalDelataTime:15249
+2013.11.03 10:56:27.986 INFO  jpcap.media.CaptureLauncher$1 79 processLostPackets - lostPackets:18433|time:15249
+2013.11.03 10:56:27.986 INFO  jpcap.media.CaptureLauncher$1 84 processFluency - fluency:156821|time:15249
+2013.11.03 10:56:28.092 INFO  jpcap.media.CaptureLauncher$1 73 processVelocity - velocity:587|average velocity:1819|totalDelataTime:15355
+2013.11.03 10:56:28.092 INFO  jpcap.media.CaptureLauncher$1 79 processLostPackets - lostPackets:18474|time:15355
+2013.11.03 10:56:28.092 INFO  jpcap.media.CaptureLauncher$1 84 processFluency - fluency:157100|time:15355
+2013.11.03 10:56:28.196 INFO  jpcap.media.CaptureLauncher$1 73 processVelocity - velocity:744|average velocity:1812|totalDelataTime:15460
+2013.11.03 10:56:28.197 INFO  jpcap.media.CaptureLauncher$1 79 processLostPackets - lostPackets:18525|time:15460
+2013.11.03 10:56:28.197 INFO  jpcap.media.CaptureLauncher$1 84 processFluency - fluency:157477|time:15460
+2013.11.03 10:56:28.309 INFO  jpcap.media.CaptureLauncher$1 73 processVelocity - velocity:788|average velocity:1804|totalDelataTime:15572
+2013.11.03 10:56:28.310 INFO  jpcap.media.CaptureLauncher$1 79 processLostPackets - lostPackets:18583|time:15572
+2013.11.03 10:56:28.311 INFO  jpcap.media.CaptureLauncher$1 84 processFluency - fluency:157910|time:15572
+2013.11.03 10:56:28.434 INFO  jpcap.media.CaptureLauncher$1 73 processVelocity - velocity:474|average velocity:1794|totalDelataTime:15697
+2013.11.03 10:56:28.434 INFO  jpcap.media.CaptureLauncher$1 79 processLostPackets - lostPackets:18622|time:15697
+2013.11.03 10:56:28.434 INFO  jpcap.media.CaptureLauncher$1 84 processFluency - fluency:158152|time:15697
+2013.11.03 10:56:28.534 INFO  jpcap.media.CaptureLauncher$1 73 processVelocity - velocity:387|average velocity:1785|totalDelataTime:15798
+2013.11.03 10:56:28.535 INFO  jpcap.media.CaptureLauncher$1 79 processLostPackets - lostPackets:18647|time:15798
+2013.11.03 10:56:28.535 INFO  jpcap.media.CaptureLauncher$1 84 processFluency - fluency:158292|time:15798
+2013.11.03 10:56:28.657 INFO  jpcap.media.CaptureLauncher$1 73 processVelocity - velocity:510|average velocity:1775|totalDelataTime:15920
+2013.11.03 10:56:28.657 INFO  jpcap.media.CaptureLauncher$1 79 processLostPackets - lostPackets:18688|time:15920
+2013.11.03 10:56:28.657 INFO  jpcap.media.CaptureLauncher$1 84 processFluency - fluency:158555|time:15920
+2013.11.03 10:56:28.768 INFO  jpcap.media.CaptureLauncher$1 73 processVelocity - velocity:633|average velocity:1767|totalDelataTime:16032
+2013.11.03 10:56:28.769 INFO  jpcap.media.CaptureLauncher$1 79 processLostPackets - lostPackets:18735|time:16032
+2013.11.03 10:56:28.770 INFO  jpcap.media.CaptureLauncher$1 84 processFluency - fluency:158881|time:16032
+2013.11.03 10:56:28.869 INFO  jpcap.media.CaptureLauncher$1 73 processVelocity - velocity:802|average velocity:1761|totalDelataTime:16133
+2013.11.03 10:56:28.870 INFO  jpcap.media.CaptureLauncher$1 79 processLostPackets - lostPackets:18788|time:16133
+2013.11.03 10:56:28.870 INFO  jpcap.media.CaptureLauncher$1 84 processFluency - fluency:159280|time:16133
+2013.11.03 10:56:28.970 INFO  jpcap.media.CaptureLauncher$1 73 processVelocity - velocity:888|average velocity:1755|totalDelataTime:16234
+2013.11.03 10:56:28.971 INFO  jpcap.media.CaptureLauncher$1 79 processLostPackets - lostPackets:18847|time:16234
+2013.11.03 10:56:28.971 INFO  jpcap.media.CaptureLauncher$1 84 processFluency - fluency:159733|time:16234
+2013.11.03 10:56:29.087 INFO  jpcap.media.CaptureLauncher$1 73 processVelocity - velocity:898|average velocity:1749|totalDelataTime:16350
+2013.11.03 10:56:29.088 INFO  jpcap.media.CaptureLauncher$1 79 processLostPackets - lostPackets:18916|time:16350
+2013.11.03 10:56:29.088 INFO  jpcap.media.CaptureLauncher$1 84 processFluency - fluency:160261|time:16350
+2013.11.03 10:56:29.189 INFO  jpcap.media.CaptureLauncher$1 73 processVelocity - velocity:1164|average velocity:1746|totalDelataTime:16452
+2013.11.03 10:56:29.190 INFO  jpcap.media.CaptureLauncher$1 79 processLostPackets - lostPackets:18994|time:16452
+2013.11.03 10:56:29.190 INFO  jpcap.media.CaptureLauncher$1 84 processFluency - fluency:160892|time:16452
+2013.11.03 10:56:29.304 INFO  jpcap.media.CaptureLauncher$1 73 processVelocity - velocity:994|average velocity:1741|totalDelataTime:16567
+2013.11.03 10:56:29.305 INFO  jpcap.media.CaptureLauncher$1 79 processLostPackets - lostPackets:19069|time:16567
+2013.11.03 10:56:29.305 INFO  jpcap.media.CaptureLauncher$1 84 processFluency - fluency:161483|time:16567
+2013.11.03 10:56:29.405 INFO  jpcap.media.CaptureLauncher$1 73 processVelocity - velocity:1306|average velocity:1738|totalDelataTime:16669
+2013.11.03 10:56:29.406 INFO  jpcap.media.CaptureLauncher$1 79 processLostPackets - lostPackets:19157|time:16669
+2013.11.03 10:56:29.407 INFO  jpcap.media.CaptureLauncher$1 84 processFluency - fluency:162203|time:16669
+2013.11.03 10:56:29.520 INFO  jpcap.media.CaptureLauncher$1 73 processVelocity - velocity:1333|average velocity:1735|totalDelataTime:16783
+2013.11.03 10:56:29.520 INFO  jpcap.media.CaptureLauncher$1 79 processLostPackets - lostPackets:19257|time:16783
+2013.11.03 10:56:29.520 INFO  jpcap.media.CaptureLauncher$1 84 processFluency - fluency:163028|time:16783
+2013.11.03 10:56:29.622 INFO  jpcap.media.CaptureLauncher$1 73 processVelocity - velocity:1863|average velocity:1736|totalDelataTime:16884
+2013.11.03 10:56:29.623 INFO  jpcap.media.CaptureLauncher$1 79 processLostPackets - lostPackets:19381|time:16884
+2013.11.03 10:56:29.623 INFO  jpcap.media.CaptureLauncher$1 84 processFluency - fluency:164089|time:16884
+2013.11.03 10:56:29.736 INFO  jpcap.media.CaptureLauncher$1 73 processVelocity - velocity:1410|average velocity:1734|totalDelataTime:16999
+2013.11.03 10:56:29.737 INFO  jpcap.media.CaptureLauncher$1 79 processLostPackets - lostPackets:19488|time:16999
+2013.11.03 10:56:29.737 INFO  jpcap.media.CaptureLauncher$1 84 processFluency - fluency:164975|time:16999
+2013.11.03 10:56:29.839 INFO  jpcap.media.CaptureLauncher$1 73 processVelocity - velocity:1318|average velocity:1731|totalDelataTime:17100
+2013.11.03 10:56:29.839 INFO  jpcap.media.CaptureLauncher$1 79 processLostPackets - lostPackets:19576|time:17100
+2013.11.03 10:56:29.839 INFO  jpcap.media.CaptureLauncher$1 84 processFluency - fluency:165696|time:17100
+2013.11.03 10:56:31.666 INFO  jpcap.media.CaptureLauncher$1 73 processVelocity - velocity:54|average velocity:1569|totalDelataTime:18927
+2013.11.03 10:56:31.666 INFO  jpcap.media.CaptureLauncher$1 79 processLostPackets - lostPackets:19642|time:18927
+2013.11.03 10:56:31.666 INFO  jpcap.media.CaptureLauncher$1 84 processFluency - fluency:164486|time:18927

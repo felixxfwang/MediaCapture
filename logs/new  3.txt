@@ -1,0 +1,250 @@
+{
+	"data": [{
+		"ct": "h",
+		"cs": "2224",
+		"logo": "http:\/\/g1.ykimg.com\/11270F1F46525BDA4C25CC00000000E9275D5F-9344-F0C9-A5B7-53A31F434494",
+		"seed": 1382,
+		"tags": ["\u673a\u52a8\u6218\u58eb\u6562\u8fbe"],
+		"categories": "100",
+		"videoid": "155351897",
+		"vidEncoded": "XNjIxNDA3NTg4",
+		"list": [{
+			"seq": "1",
+			"vid": "154590691",
+			"vidEncoded": "XNjE4MzYyNzY0",
+			"title": "\u7b2c01\u8bdd \u8bda\u4e0e\u5cad\u53f8",
+			"vv": "315457"
+		},
+		{
+			"seq": "2",
+			"vid": "155351897",
+			"vidEncoded": "XNjIxNDA3NTg4",
+			"title": "\u7b2c02\u8bdd \u7ea2\u4e4b\u5f57\u661f",
+			"vv": "234684"
+		},
+		{
+			"seq": "3",
+			"vid": "156101103",
+			"vidEncoded": "XNjI0NDA0NDEy",
+			"title": "\u7b2c03\u8bdd \u5168\u88c5\u5907\u578b",
+			"vv": "222533"
+		},
+		{
+			"seq": "4",
+			"vid": "156863987",
+			"vidEncoded": "XNjI3NDU1OTQ4",
+			"title": "\u7b2c4\u8bdd \u6562\u8fbe\u6a21\u578b\u5076\u50cf\u742a\u62c9\u62c9\u2606",
+			"vv": "145765"
+		}],
+		"list_pre": {
+			"seq": "1",
+			"vid": "154590691",
+			"vidEncoded": "XNjE4MzYyNzY0",
+			"title": "\u7b2c01\u8bdd \u8bda\u4e0e\u5cad\u53f8",
+			"vv": "315457"
+		},
+		"list_next": {
+			"seq": "3",
+			"vid": "156101103",
+			"vidEncoded": "XNjI0NDA0NDEy",
+			"title": "\u7b2c03\u8bdd \u5168\u88c5\u5907\u578b",
+			"vv": "222533"
+		},
+		"username": "\u4e8c\u5341\u5c0f\u5357\u74dc",
+		"userid": "83980375",
+		"title": "\u7b2c02\u8bdd \u7ea2\u4e4b\u5f57\u661f",
+		"up": 0,
+		"down": 0,
+		"ts": "g9K9DTRAMxc3LgtxAT6I57I",
+		"tsup": "g9K7bzdAMxc3LgtxAlyO57I",
+		"preview": {
+			"thumbs": ["05210003525BDA776A07BF02530087E3",
+			"05210103525BDA776A07BF02530087E3",
+			"05210203525BDA776A07BF02530087E3"],
+			"sectiontime": "6000",
+			"host": "http:\/\/g3.ykimg.com\/"
+		},
+		"key1": "bd73ac3a",
+		"key2": "05b5b75dc6169592",
+		"tt": "0",
+		"show": {
+			"showid": "279013",
+			"showid_encode": "1acf7c98e2e911e29748",
+			"paid": 0,
+			"paid_type": "",
+			"show_paid": 0,
+			"paid_url": "",
+			"copyright": 1,
+			"show_videotype": 1,
+			"theaterid": 0,
+			"stage": "2"
+		},
+		"dvd": {
+			"notsharing": "0"
+		},
+		"seconds": "1598.18",
+		"streamfileids": {
+			"hd2": "1*13*1*1*1*6*1*7*1*1*55*32*55*39*36*45*0*5*45*1*55*53*1*55*1*6*18*1*55*18*1*63*26*55*26*36*5*7*57*26*36*26*39*57*13*5*26*63*57*53*26*5*45*57*0*26*48*26*6*5*5*45*45*18*45*55*",
+			"mp4": "1*13*1*1*1*7*1*0*1*1*55*32*55*39*36*7*45*32*45*1*55*53*1*55*1*6*18*1*55*18*1*63*26*55*26*36*5*7*57*26*36*26*39*57*13*5*26*63*57*53*26*5*45*57*0*26*48*26*6*5*5*45*45*18*45*55*",
+			"flv": "1*13*1*1*1*32*1*0*1*1*55*32*55*39*36*0*26*39*45*1*55*53*1*55*1*6*18*1*55*18*1*63*26*55*26*36*5*7*57*26*36*26*39*57*13*5*26*63*57*53*26*5*45*57*0*26*48*26*6*5*5*45*45*18*45*55*"
+		},
+		"segs": {
+			"hd2": [{
+				"no": "0",
+				"size": "37816670",
+				"seconds": "201",
+				"k": "8e2f88e8c153d70f261d5003",
+				"k2": "1e47155a47c6a5a7c"
+			},
+			{
+				"no": "1",
+				"size": "21849458",
+				"seconds": "184",
+				"k": "4dca7e4beea4394e2829099f",
+				"k2": "1b3f4719652f7bcdc"
+			},
+			{
+				"no": "2",
+				"size": "24280964",
+				"seconds": "207",
+				"k": "0f72fd9b60772de32829099f",
+				"k2": "1cd99ea0e7308672b"
+			},
+			{
+				"no": "3",
+				"size": "38481986",
+				"seconds": "203",
+				"k": "0be2c6da12f97d5c2829099f",
+				"k2": "146bc6153998c085c"
+			},
+			{
+				"no": "4",
+				"size": "29766624",
+				"seconds": "209",
+				"k": "233ea0e50476fae32829099f",
+				"k2": "10f2c733091a0b853"
+			},
+			{
+				"no": "5",
+				"size": "26915746",
+				"seconds": "196",
+				"k": "4c474c99bac2fb462829099f",
+				"k2": "116b94b9c54937631"
+			},
+			{
+				"no": "6",
+				"size": "28394184",
+				"seconds": "209",
+				"k": "1a66a1aa13160de1261d5003",
+				"k2": "1e952ad65633eefd5"
+			},
+			{
+				"no": "7",
+				"size": "33411481",
+				"seconds": "189",
+				"k": "f5e2ff32330e4a962829099f",
+				"k2": "1435ea4b03b2e8ae7"
+			}],
+			"mp4": [{
+				"no": "0",
+				"size": "27457976",
+				"seconds": "386",
+				"k": "81d5c25469b0d1b924119668",
+				"k2": "16ce6505f6e3dfb0f"
+			},
+			{
+				"no": "1",
+				"size": "27020116",
+				"seconds": "377",
+				"k": "d533a5af2dc7a8ba2829099f",
+				"k2": "18f718687465efe47"
+			},
+			{
+				"no": "2",
+				"size": "25682359",
+				"seconds": "419",
+				"k": "ca7b72834a6cb55d261d5003",
+				"k2": "1862655ceaa135939"
+			},
+			{
+				"no": "3",
+				"size": "29918323",
+				"seconds": "416",
+				"k": "45f79c5ed8dbe8b02829099f",
+				"k2": "15c011f600e34e262"
+			}],
+			"flv": [{
+				"no": "0",
+				"size": "14825054",
+				"seconds": "403",
+				"k": "59a3f0d2aa6b80ab2829099f",
+				"k2": "1a7ceecf7a321f80c"
+			},
+			{
+				"no": "1",
+				"size": "15046424",
+				"seconds": "414",
+				"k": "8aeb41744741987b2829099f",
+				"k2": "1495103f2f1954398"
+			},
+			{
+				"no": "2",
+				"size": "13459900",
+				"seconds": "395",
+				"k": "065f519af2d3601f24119668",
+				"k2": "13e1d55d066bff962"
+			},
+			{
+				"no": "3",
+				"size": "13931950",
+				"seconds": "386",
+				"k": "50f96deb50a3b020261d5003",
+				"k2": "1863a48adf93e950a"
+			}]
+		},
+		"streamsizes": {
+			"hd2": "240917113",
+			"mp4": "110078774",
+			"flv": "57263328"
+		},
+		"stream_ids": {
+			"hd2": "167867975",
+			"mp4": "167860044",
+			"flv": "167853404"
+		},
+		"streamlogos": {
+			"hd2": 0,
+			"mp4": 0,
+			"flv": 0
+		},
+		"streamtypes": ["hd2",
+		"mp4",
+		"flv"],
+		"streamtypes_o": ["hd2",
+		"flvhd",
+		"mp4"]
+	}],
+	"user": {
+		"id": 0
+	},
+	"controller": {
+		"search_count": true,
+		"mp4_restrict": 1,
+		"stream_mode": 1,
+		"video_capture": true,
+		"hd3_enabled": false,
+		"area_code": 420100,
+		"dma_code": 4538,
+		"continuous": 0,
+		"playmode": "show",
+		"circle": false,
+		"tsflag": false,
+		"other_disable": false,
+		"share_disabled": false,
+		"download_disabled": true,
+		"pc_disabled": false,
+		"pad_disabled": false,
+		"mobile_disabled": false,
+		"tv_disabled": false
+	}
+}

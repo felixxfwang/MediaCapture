@@ -1,0 +1,74 @@
+<root>
+<trylook>0</trylook>
+<authtype>0</authtype>
+<dbflag>0</dbflag>
+<playurl>
+{
+	"dispatch": {
+		"350": ["http:\/\/g3.letv.cn\/vod\/v2\/NDYvMTkvMzcvbGV0di11dHMvODU0OTcwOC1BVkMtMjU0ODA4LUFBQy0zMTU4Ni0xNDU5OTE3LTU0NTIyNjE1LWJjMTEyMjQ3NGI3YzlhODJjZTZmNWZiMDM4YWVlYTY5LTEzODQ4MzI4Nzk5MDIuZmx2?b=298&mmsid=3468488&tm=1384835526&key=e12f7c1b6c6731bd94115ad1b8265d1e&platid=1&splatid=101&playid=0&tss=no",
+		3468488,
+		"46\/19\/37\/letv-uts\/8549708-AVC-254808-AAC-31586-1459917-54522615-bc1122474b7c9a82ce6f5fb038aeea69-1384832879902.flv",
+		"1"],
+		"1000": ["http:\/\/g3.letv.cn\/vod\/v2\/NDYvMTkvMzcvbGV0di11dHMvODU0OTcxMS1BVkMtNDg5NTUyLUFBQy0zMTU4Ni0xNDU5OTE3LTk4Mzg2Njc5LTE2NDIwNmJkZDhjMWE0NTY5ZDdiZjgzYzY1MTE3ZjhmLTEzODQ4MzMxNzA0MTcuZmx2?b=538&mmsid=3468488&tm=1384835526&key=3b54c57947d3cd6ee69b43bc1dbe4868&platid=1&splatid=101&playid=0&tss=no",
+		3468488,
+		"46\/19\/37\/letv-uts\/8549711-AVC-489552-AAC-31586-1459917-98386679-164206bdd8c1a4569d7bf83c65117f8f-1384833170417.flv",
+		"16"],
+		"1300": ["http:\/\/g3.letv.cn\/vod\/v2\/NDYvMTkvMzcvbGV0di11dHMvODU0OTcxMy1BVkMtNTg3NjMyLUFBQy0xMjU0MTItMTQ1OTkxNy0xMzQ3MjIyMjYtYTBkYTJmMjY5Njc5YWFiMWUwMzBkZmY5NTc0Y2ZhYzEtMTM4NDgzMzcwNDU4NC5mbHY=?b=738&mmsid=3468488&tm=1384835526&key=80ae99e7eb67d09b75f23f2e4288dcc3&platid=1&splatid=101&playid=0&tss=no",
+		3468488,
+		"46\/19\/37\/letv-uts\/8549713-AVC-587632-AAC-125412-1459917-134722226-a0da2f269679aab1e030dff9574cfac1-1384833704584.flv",
+		"17"],
+		"720p": ["http:\/\/g3.letv.cn\/vod\/v2\/NDYvMTkvMzcvbGV0di11dHMvODU0OTcxNS1BVkMtOTc4MTQ3LUFBQy0xMjU0MTItMTQ1OTkxNy0yMDc2OTU0MTEtZjdmYjFlZDkwNTlhN2M0ZGI5MTA2OWM5MDYzYmYzMGQtMTM4NDgzNDI4OTA1My5mbHY=?b=1137&mmsid=3468488&tm=1384835526&key=149852cd719558ca17848efc3b5fcd8f&platid=1&splatid=101&playid=0&tss=no",
+		3468488,
+		"46\/19\/37\/letv-uts\/8549715-AVC-978147-AAC-125412-1459917-207695411-f7fb1ed9059a7c4db91069c9063bf30d-1384834289053.flv",
+		"18"]
+	},
+	"dispatchbak": {
+		"350": ["http:\/\/g3.letv.com\/vod\/v2\/NDYvMTkvMzcvbGV0di11dHMvODU0OTcwOC1BVkMtMjU0ODA4LUFBQy0zMTU4Ni0xNDU5OTE3LTU0NTIyNjE1LWJjMTEyMjQ3NGI3YzlhODJjZTZmNWZiMDM4YWVlYTY5LTEzODQ4MzI4Nzk5MDIuZmx2?b=298&mmsid=3468488&tm=1384835526&key=e12f7c1b6c6731bd94115ad1b8265d1e&platid=1&splatid=101&playid=0&tss=no",
+		3468488],
+		"1000": ["http:\/\/g3.letv.com\/vod\/v2\/NDYvMTkvMzcvbGV0di11dHMvODU0OTcxMS1BVkMtNDg5NTUyLUFBQy0zMTU4Ni0xNDU5OTE3LTk4Mzg2Njc5LTE2NDIwNmJkZDhjMWE0NTY5ZDdiZjgzYzY1MTE3ZjhmLTEzODQ4MzMxNzA0MTcuZmx2?b=538&mmsid=3468488&tm=1384835526&key=3b54c57947d3cd6ee69b43bc1dbe4868&platid=1&splatid=101&playid=0&tss=no",
+		3468488],
+		"1300": ["http:\/\/g3.letv.com\/vod\/v2\/NDYvMTkvMzcvbGV0di11dHMvODU0OTcxMy1BVkMtNTg3NjMyLUFBQy0xMjU0MTItMTQ1OTkxNy0xMzQ3MjIyMjYtYTBkYTJmMjY5Njc5YWFiMWUwMzBkZmY5NTc0Y2ZhYzEtMTM4NDgzMzcwNDU4NC5mbHY=?b=738&mmsid=3468488&tm=1384835526&key=80ae99e7eb67d09b75f23f2e4288dcc3&platid=1&splatid=101&playid=0&tss=no",
+		3468488],
+		"720p": ["http:\/\/g3.letv.com\/vod\/v2\/NDYvMTkvMzcvbGV0di11dHMvODU0OTcxNS1BVkMtOTc4MTQ3LUFBQy0xMjU0MTItMTQ1OTkxNy0yMDc2OTU0MTEtZjdmYjFlZDkwNTlhN2M0ZGI5MTA2OWM5MDYzYmYzMGQtMTM4NDgzNDI4OTA1My5mbHY=?b=1137&mmsid=3468488&tm=1384835526&key=149852cd719558ca17848efc3b5fcd8f&platid=1&splatid=101&playid=0&tss=no",
+		3468488]
+	},
+	"dispatchbak1": {
+		"350": ["http:\/\/117.121.54.219\/vod\/v2\/NDYvMTkvMzcvbGV0di11dHMvODU0OTcwOC1BVkMtMjU0ODA4LUFBQy0zMTU4Ni0xNDU5OTE3LTU0NTIyNjE1LWJjMTEyMjQ3NGI3YzlhODJjZTZmNWZiMDM4YWVlYTY5LTEzODQ4MzI4Nzk5MDIuZmx2?b=298&mmsid=3468488&tm=1384835526&key=e12f7c1b6c6731bd94115ad1b8265d1e&platid=1&splatid=101&playid=0&tss=no",
+		3468488],
+		"1000": ["http:\/\/117.121.54.219\/vod\/v2\/NDYvMTkvMzcvbGV0di11dHMvODU0OTcxMS1BVkMtNDg5NTUyLUFBQy0zMTU4Ni0xNDU5OTE3LTk4Mzg2Njc5LTE2NDIwNmJkZDhjMWE0NTY5ZDdiZjgzYzY1MTE3ZjhmLTEzODQ4MzMxNzA0MTcuZmx2?b=538&mmsid=3468488&tm=1384835526&key=3b54c57947d3cd6ee69b43bc1dbe4868&platid=1&splatid=101&playid=0&tss=no",
+		3468488],
+		"1300": ["http:\/\/117.121.54.219\/vod\/v2\/NDYvMTkvMzcvbGV0di11dHMvODU0OTcxMy1BVkMtNTg3NjMyLUFBQy0xMjU0MTItMTQ1OTkxNy0xMzQ3MjIyMjYtYTBkYTJmMjY5Njc5YWFiMWUwMzBkZmY5NTc0Y2ZhYzEtMTM4NDgzMzcwNDU4NC5mbHY=?b=738&mmsid=3468488&tm=1384835526&key=80ae99e7eb67d09b75f23f2e4288dcc3&platid=1&splatid=101&playid=0&tss=no",
+		3468488],
+		"720p": ["http:\/\/117.121.54.219\/vod\/v2\/NDYvMTkvMzcvbGV0di11dHMvODU0OTcxNS1BVkMtOTc4MTQ3LUFBQy0xMjU0MTItMTQ1OTkxNy0yMDc2OTU0MTEtZjdmYjFlZDkwNTlhN2M0ZGI5MTA2OWM5MDYzYmYzMGQtMTM4NDgzNDI4OTA1My5mbHY=?b=1137&mmsid=3468488&tm=1384835526&key=149852cd719558ca17848efc3b5fcd8f&platid=1&splatid=101&playid=0&tss=no",
+		3468488]
+	},
+	"dispatchbak2": {
+		"350": ["http:\/\/g3.letv.cn\/vod\/v2\/NDYvMTkvMzcvbGV0di11dHMvODU0OTcwOC1BVkMtMjU0ODA4LUFBQy0zMTU4Ni0xNDU5OTE3LTU0NTIyNjE1LWJjMTEyMjQ3NGI3YzlhODJjZTZmNWZiMDM4YWVlYTY5LTEzODQ4MzI4Nzk5MDIuZmx2?b=298&mmsid=3468488&tm=1384835526&key=e12f7c1b6c6731bd94115ad1b8265d1e&platid=1&splatid=101&playid=0&tss=no&retry=1",
+		3468488],
+		"1000": ["http:\/\/g3.letv.cn\/vod\/v2\/NDYvMTkvMzcvbGV0di11dHMvODU0OTcxMS1BVkMtNDg5NTUyLUFBQy0zMTU4Ni0xNDU5OTE3LTk4Mzg2Njc5LTE2NDIwNmJkZDhjMWE0NTY5ZDdiZjgzYzY1MTE3ZjhmLTEzODQ4MzMxNzA0MTcuZmx2?b=538&mmsid=3468488&tm=1384835526&key=3b54c57947d3cd6ee69b43bc1dbe4868&platid=1&splatid=101&playid=0&tss=no&retry=1",
+		3468488],
+		"1300": ["http:\/\/g3.letv.cn\/vod\/v2\/NDYvMTkvMzcvbGV0di11dHMvODU0OTcxMy1BVkMtNTg3NjMyLUFBQy0xMjU0MTItMTQ1OTkxNy0xMzQ3MjIyMjYtYTBkYTJmMjY5Njc5YWFiMWUwMzBkZmY5NTc0Y2ZhYzEtMTM4NDgzMzcwNDU4NC5mbHY=?b=738&mmsid=3468488&tm=1384835526&key=80ae99e7eb67d09b75f23f2e4288dcc3&platid=1&splatid=101&playid=0&tss=no&retry=1",
+		3468488],
+		"720p": ["http:\/\/g3.letv.cn\/vod\/v2\/NDYvMTkvMzcvbGV0di11dHMvODU0OTcxNS1BVkMtOTc4MTQ3LUFBQy0xMjU0MTItMTQ1OTkxNy0yMDc2OTU0MTEtZjdmYjFlZDkwNTlhN2M0ZGI5MTA2OWM5MDYzYmYzMGQtMTM4NDgzNDI4OTA1My5mbHY=?b=1137&mmsid=3468488&tm=1384835526&key=149852cd719558ca17848efc3b5fcd8f&platid=1&splatid=101&playid=0&tss=no&retry=1",
+		3468488]
+	},
+	"dispatchspath": {
+		"1000": ["46\/19\/37\/letv-uts\/8549711-AVC-489552-AAC-31586-1459917-98386679-164206bdd8c1a4569d7bf83c65117f8f-1384833170417.flv",
+		3468488]
+	},
+	"cid": "5",
+	"pid": "93453",
+	"vid": "2181309",
+	"mmsid": "3468488",
+	"total": 7,
+	"chapter": 7,
+	"title": "\u82cd\u84dd\u94a2\u94c1\u7684\u7436\u97f307",
+	"duration": "1459",
+	"pic": "http:\/\/i0.letvimg.com\/yunzhuanma\/201311\/19\/bc1122474b7c9a82ce6f5fb038aeea69\/thumb\/5.jpg",
+	"url": "http:\/\/www.letv.com\/ptv\/vplay\/2181309.html"
+}
+</playurl>
+<paylist>{"350":0,"1000":0,"1300":0,"720p":0}</paylist>
+<video_ban>1</video_ban>
+<skip></skip>
+</root>

@@ -1,0 +1,95 @@
+2013.10.27 13:29:33.377 INFO  jpcap.media.Dispatcher 47 run - GET /youku/656DB70DAD3082AF2D29632ED/030002010052661DF97C950742D2DA87B57CA6-2478-5062-3666-D9A96610A143.flv HTTP/1.1 host: 118.228.18.52
+2013.10.27 13:29:33.382 INFO  jpcap.media.Dispatcher 54 run - HTTP/1.1 200  Content-Type: video/x-flv Content-Length: 542118 Location: null
+2013.10.27 13:30:35.126 INFO  jpcap.media.Dispatcher 47 run - GET /youku/6573E7005CC4783FF6B0E15C11/03000201005247EE5B537F003E8803A0477481-204A-35AA-F724-91F44D635E0A.flv HTTP/1.1 host: 118.228.16.24
+2013.10.27 13:30:35.129 INFO  jpcap.media.Dispatcher 54 run - HTTP/1.1 200  Content-Type: video/x-flv Content-Length: 569097 Location: null
+2013.10.27 13:30:35.248 INFO  jpcap.media.PacketAnalyst 81 run - velocity:339|average velocity:348|currentBytes:40740|deltaBytes:39770|delataTime:117|totalBytes:404317|totalDelataTime:117
+2013.10.27 13:30:35.351 INFO  jpcap.media.PacketAnalyst 81 run - velocity:727|average velocity:526|currentBytes:116400|deltaBytes:75660|delataTime:104|totalBytes:479977|totalDelataTime:221
+2013.10.27 13:30:35.482 INFO  jpcap.media.PacketAnalyst 81 run - velocity:609|average velocity:557|currentBytes:196910|deltaBytes:80510|delataTime:132|totalBytes:560487|totalDelataTime:353
+2013.10.27 13:30:35.604 INFO  jpcap.media.PacketAnalyst 81 run - velocity:262|average velocity:481|currentBytes:228920|deltaBytes:32010|delataTime:122|totalBytes:592497|totalDelataTime:475
+2013.10.27 13:30:35.722 INFO  jpcap.media.PacketAnalyst 81 run - velocity:386|average velocity:462|currentBytes:274510|deltaBytes:45590|delataTime:118|totalBytes:638087|totalDelataTime:593
+2013.10.27 13:30:35.841 INFO  jpcap.media.PacketAnalyst 81 run - velocity:419|average velocity:455|currentBytes:323980|deltaBytes:49470|delataTime:118|totalBytes:687557|totalDelataTime:711
+2013.10.27 13:30:36.112 INFO  jpcap.media.PacketAnalyst 81 run - velocity:192|average velocity:382|currentBytes:376360|deltaBytes:52380|delataTime:272|totalBytes:739937|totalDelataTime:983
+2013.10.27 13:30:36.181 INFO  jpcap.media.Dispatcher 47 run - GET /youku/676D8789743282CC6ADDE3E25/03000201005260E39FA645003E880301EBF82F-12ED-66F6-233F-6329B90B1460.flv HTTP/1.1 host: 118.228.18.41
+2013.10.27 13:30:36.182 INFO  jpcap.media.Dispatcher 54 run - HTTP/1.1 200  Content-Type: video/x-flv Content-Length: 542628 Location: null
+2013.10.27 13:30:37.557 INFO  jpcap.media.PacketAnalyst 81 run - velocity:258|average velocity:259|currentBytes:356960|deltaBytes:355990|delataTime:1376|totalBytes:1102016|totalDelataTime:2359
+2013.10.27 13:31:08.043 INFO  jpcap.media.Dispatcher 47 run - GET /youku/6975A5F898D4E8465CC8FC5769/0300080400526AD13625E80818E9ECDDF76552-C8BA-9151-B49E-C93341DC5BE4.mp4 HTTP/1.1 host: 118.228.18.44
+2013.10.27 13:31:08.046 INFO  jpcap.media.Dispatcher 54 run - HTTP/1.1 200  Content-Type: video/mp4 Content-Length: 27306489 Location: null
+2013.10.27 13:31:08.146 INFO  jpcap.media.PacketAnalyst 81 run - velocity:7760|average velocity:7769|currentBytes:784730|deltaBytes:783760|delataTime:101|totalBytes:1893536|totalDelataTime:2460
+2013.10.27 13:31:08.288 INFO  jpcap.media.PacketAnalyst 81 run - velocity:1051|average velocity:3844|currentBytes:934110|deltaBytes:149380|delataTime:142|totalBytes:2042916|totalDelataTime:2602
+2013.10.27 13:31:08.410 INFO  jpcap.media.PacketAnalyst 81 run - velocity:3148|average velocity:3611|currentBytes:1318230|deltaBytes:384120|delataTime:122|totalBytes:2427036|totalDelataTime:2724
+2013.10.27 13:31:08.566 INFO  jpcap.media.PacketAnalyst 81 run - velocity:6|average velocity:2532|currentBytes:1319200|deltaBytes:970|delataTime:156|totalBytes:2428006|totalDelataTime:2880
+2013.10.27 13:31:08.792 INFO  jpcap.media.PacketAnalyst 81 run - velocity:133|average velocity:1808|currentBytes:1349270|deltaBytes:30070|delataTime:225|totalBytes:2458076|totalDelataTime:3105
+2013.10.27 13:31:09.050 INFO  jpcap.media.PacketAnalyst 81 run - velocity:943|average velocity:1585|currentBytes:1593710|deltaBytes:244440|delataTime:259|totalBytes:2702516|totalDelataTime:3364
+2013.10.27 13:31:09.295 INFO  jpcap.media.PacketAnalyst 81 run - velocity:213|average velocity:1316|currentBytes:1646090|deltaBytes:52380|delataTime:245|totalBytes:2754896|totalDelataTime:3609
+2013.10.27 13:31:09.396 INFO  jpcap.media.PacketAnalyst 81 run - velocity:5627|average velocity:1639|currentBytes:2214510|deltaBytes:568420|delataTime:101|totalBytes:3323316|totalDelataTime:3710
+2013.10.27 13:31:09.682 INFO  jpcap.media.PacketAnalyst 81 run - velocity:1194|average velocity:1561|currentBytes:2554980|deltaBytes:340470|delataTime:285|totalBytes:3663786|totalDelataTime:3995
+2013.10.27 13:31:09.928 INFO  jpcap.media.PacketAnalyst 81 run - velocity:579|average velocity:1433|currentBytes:2697570|deltaBytes:142590|delataTime:246|totalBytes:3806376|totalDelataTime:4241
+2013.10.27 13:31:10.029 INFO  jpcap.media.PacketAnalyst 81 run - velocity:3918|average velocity:1561|currentBytes:3097210|deltaBytes:399640|delataTime:102|totalBytes:4206016|totalDelataTime:4343
+2013.10.27 13:31:10.135 INFO  jpcap.media.PacketAnalyst 81 run - velocity:5839|average velocity:1770|currentBytes:3692790|deltaBytes:595580|delataTime:102|totalBytes:4801596|totalDelataTime:4445
+2013.10.27 13:31:10.232 INFO  jpcap.media.PacketAnalyst 81 run - velocity:4561|average velocity:1899|currentBytes:4153540|deltaBytes:460750|delataTime:101|totalBytes:5262346|totalDelataTime:4546
+2013.10.27 13:31:10.335 INFO  jpcap.media.PacketAnalyst 81 run - velocity:7817|average velocity:2162|currentBytes:4950880|deltaBytes:797340|delataTime:102|totalBytes:6059686|totalDelataTime:4648
+2013.10.27 13:31:10.435 INFO  jpcap.media.PacketAnalyst 81 run - velocity:6569|average velocity:2349|currentBytes:5614360|deltaBytes:663480|delataTime:101|totalBytes:6723166|totalDelataTime:4749
+2013.10.27 13:31:10.542 INFO  jpcap.media.PacketAnalyst 81 run - velocity:7995|average velocity:2582|currentBytes:6437890|deltaBytes:823530|delataTime:103|totalBytes:7546696|totalDelataTime:4852
+2013.10.27 13:31:10.640 INFO  jpcap.media.PacketAnalyst 81 run - velocity:5714|average velocity:2704|currentBytes:7015040|deltaBytes:577150|delataTime:101|totalBytes:8123846|totalDelataTime:4953
+2013.10.27 13:31:10.742 INFO  jpcap.media.PacketAnalyst 81 run - velocity:4726|average velocity:2780|currentBytes:7497130|deltaBytes:482090|delataTime:102|totalBytes:8605936|totalDelataTime:5055
+2013.10.27 13:31:10.843 INFO  jpcap.media.PacketAnalyst 81 run - velocity:3395|average velocity:2803|currentBytes:7843420|deltaBytes:346290|delataTime:102|totalBytes:8952226|totalDelataTime:5157
+2013.10.27 13:31:10.950 INFO  jpcap.media.PacketAnalyst 81 run - velocity:5225|average velocity:2891|currentBytes:8397290|deltaBytes:553870|delataTime:106|totalBytes:9506096|totalDelataTime:5263
+2013.10.27 13:31:11.226 INFO  jpcap.media.PacketAnalyst 81 run - velocity:755|average velocity:2706|currentBytes:8605840|deltaBytes:208550|delataTime:276|totalBytes:9714646|totalDelataTime:5539
+2013.10.27 13:31:13.221 INFO  jpcap.media.PacketAnalyst 81 run - velocity:110|average velocity:1705|currentBytes:8827000|deltaBytes:221160|delataTime:1996|totalBytes:9935806|totalDelataTime:7535
+2013.10.27 13:31:14.197 INFO  jpcap.media.PacketAnalyst 81 run - velocity:6|average velocity:1436|currentBytes:8833790|deltaBytes:6790|delataTime:974|totalBytes:9942596|totalDelataTime:8509
+2013.10.27 13:31:14.455 INFO  jpcap.media.PacketAnalyst 81 run - velocity:1179|average velocity:1426|currentBytes:9139340|deltaBytes:305550|delataTime:259|totalBytes:10248146|totalDelataTime:8768
+2013.10.27 13:31:14.663 INFO  jpcap.media.PacketAnalyst 81 run - velocity:37|average velocity:1382|currentBytes:9147100|deltaBytes:7760|delataTime:208|totalBytes:10255906|totalDelataTime:8976
+2013.10.27 13:31:14.765 INFO  jpcap.media.PacketAnalyst 81 run - velocity:555|average velocity:1369|currentBytes:9204330|deltaBytes:57230|delataTime:103|totalBytes:10313136|totalDelataTime:9079
+2013.10.27 13:31:14.908 INFO  jpcap.media.PacketAnalyst 81 run - velocity:49|average velocity:1343|currentBytes:9211120|deltaBytes:6790|delataTime:138|totalBytes:10319926|totalDelataTime:9217
+2013.10.27 13:31:15.006 INFO  jpcap.media.PacketAnalyst 81 run - velocity:4134|average velocity:1384|currentBytes:9636950|deltaBytes:425830|delataTime:103|totalBytes:10745756|totalDelataTime:9320
+2013.10.27 13:31:15.108 INFO  jpcap.media.PacketAnalyst 81 run - velocity:5848|average velocity:1448|currentBytes:10227680|deltaBytes:590730|delataTime:101|totalBytes:11336486|totalDelataTime:9421
+2013.10.27 13:31:15.358 INFO  jpcap.media.PacketAnalyst 81 run - velocity:997|average velocity:1432|currentBytes:10477940|deltaBytes:250260|delataTime:251|totalBytes:11586746|totalDelataTime:9672
+2013.10.27 13:31:15.463 INFO  jpcap.media.PacketAnalyst 81 run - velocity:5207|average velocity:1485|currentBytes:11014350|deltaBytes:536410|delataTime:103|totalBytes:12123156|totalDelataTime:9775
+2013.10.27 13:31:15.745 INFO  jpcap.media.PacketAnalyst 81 run - velocity:1422|average velocity:1482|currentBytes:11416900|deltaBytes:402550|delataTime:283|totalBytes:12525706|totalDelataTime:10058
+2013.10.27 13:31:15.846 INFO  jpcap.media.PacketAnalyst 81 run - velocity:4533|average velocity:1522|currentBytes:11874740|deltaBytes:457840|delataTime:101|totalBytes:12983546|totalDelataTime:10159
+2013.10.27 13:31:16.149 INFO  jpcap.media.PacketAnalyst 81 run - velocity:1260|average velocity:1512|currentBytes:12257890|deltaBytes:383150|delataTime:304|totalBytes:13366696|totalDelataTime:10463
+2013.10.27 13:31:16.254 INFO  jpcap.media.PacketAnalyst 81 run - velocity:4756|average velocity:1553|currentBytes:12752590|deltaBytes:494700|delataTime:104|totalBytes:13861396|totalDelataTime:10567
+2013.10.27 13:31:16.355 INFO  jpcap.media.PacketAnalyst 81 run - velocity:4422|average velocity:1588|currentBytes:13203640|deltaBytes:451050|delataTime:102|totalBytes:14312446|totalDelataTime:10669
+2013.10.27 13:31:16.456 INFO  jpcap.media.PacketAnalyst 81 run - velocity:5935|average velocity:1641|currentBytes:13803100|deltaBytes:599460|delataTime:101|totalBytes:14911906|totalDelataTime:10770
+2013.10.27 13:31:16.560 INFO  jpcap.media.PacketAnalyst 81 run - velocity:6286|average velocity:1697|currentBytes:14456880|deltaBytes:653780|delataTime:104|totalBytes:15565686|totalDelataTime:10874
+2013.10.27 13:31:16.661 INFO  jpcap.media.PacketAnalyst 81 run - velocity:5330|average velocity:1740|currentBytes:14995230|deltaBytes:538350|delataTime:101|totalBytes:16104036|totalDelataTime:10975
+2013.10.27 13:31:16.762 INFO  jpcap.media.PacketAnalyst 81 run - velocity:7375|average velocity:1805|currentBytes:15740190|deltaBytes:744960|delataTime:101|totalBytes:16848996|totalDelataTime:11076
+2013.10.27 13:31:16.868 INFO  jpcap.media.PacketAnalyst 81 run - velocity:5302|average velocity:1846|currentBytes:16286300|deltaBytes:546110|delataTime:103|totalBytes:17395106|totalDelataTime:11179
+2013.10.27 13:31:17.173 INFO  jpcap.media.PacketAnalyst 81 run - velocity:1428|average velocity:1832|currentBytes:16724740|deltaBytes:438440|delataTime:307|totalBytes:17833546|totalDelataTime:11486
+2013.10.27 13:31:17.463 INFO  jpcap.media.PacketAnalyst 81 run - velocity:1194|average velocity:1812|currentBytes:17071030|deltaBytes:346290|delataTime:290|totalBytes:18179836|totalDelataTime:11776
+2013.10.27 13:31:17.567 INFO  jpcap.media.PacketAnalyst 81 run - velocity:4514|average velocity:1842|currentBytes:17540510|deltaBytes:469480|delataTime:104|totalBytes:18649316|totalDelataTime:11880
+2013.10.27 13:31:17.979 INFO  jpcap.media.PacketAnalyst 81 run - velocity:33|average velocity:1767|currentBytes:17554090|deltaBytes:13580|delataTime:410|totalBytes:18662896|totalDelataTime:12290
+2013.10.27 13:31:18.206 INFO  jpcap.media.PacketAnalyst 81 run - velocity:262|average velocity:1733|currentBytes:17614230|deltaBytes:60140|delataTime:229|totalBytes:18723036|totalDelataTime:12519
+2013.10.27 13:31:18.306 INFO  jpcap.media.PacketAnalyst 81 run - velocity:5916|average velocity:1774|currentBytes:18211750|deltaBytes:597520|delataTime:101|totalBytes:19320556|totalDelataTime:12620
+2013.10.27 13:31:18.523 INFO  jpcap.media.PacketAnalyst 81 run - velocity:40|average velocity:1738|currentBytes:18220480|deltaBytes:8730|delataTime:217|totalBytes:19329286|totalDelataTime:12837
+2013.10.27 13:31:18.744 INFO  jpcap.media.PacketAnalyst 81 run - velocity:237|average velocity:1707|currentBytes:18272860|deltaBytes:52380|delataTime:221|totalBytes:19381666|totalDelataTime:13058
+2013.10.27 13:31:28.753 INFO  jpcap.media.PacketAnalyst 81 run - velocity:2|average velocity:883|currentBytes:18300020|deltaBytes:27160|delataTime:10009|totalBytes:19408826|totalDelataTime:23067
+2013.10.27 13:36:40.356 INFO  jpcap.media.Dispatcher 47 run - GET /youku/69765AB7C273F838A7CFBD476A/0300080401526AD13625E80818E9ECDDF76552-C8BA-9151-B49E-C93341DC5BE4.mp4?start=13 HTTP/1.1 host: 118.228.18.55
+2013.10.27 13:36:40.357 INFO  jpcap.media.Dispatcher 54 run - HTTP/1.1 200  Content-Type: video/mp4 Content-Length: 32559641 Location: null
+2013.10.27 13:36:40.470 INFO  jpcap.media.PacketAnalyst 81 run - velocity:5022|average velocity:5032|currentBytes:508280|deltaBytes:507310|delataTime:101|totalBytes:19920353|totalDelataTime:23168
+2013.10.27 13:36:40.569 INFO  jpcap.media.PacketAnalyst 81 run - velocity:8915|average velocity:7056|currentBytes:1488950|deltaBytes:980670|delataTime:110|totalBytes:20901023|totalDelataTime:23278
+2013.10.27 13:36:40.690 INFO  jpcap.media.PacketAnalyst 81 run - velocity:6271|average velocity:6802|currentBytes:2122360|deltaBytes:633410|delataTime:101|totalBytes:21534433|totalDelataTime:23379
+2013.10.27 13:36:40.779 INFO  jpcap.media.PacketAnalyst 81 run - velocity:9114|average velocity:7367|currentBytes:3042890|deltaBytes:920530|delataTime:101|totalBytes:22454963|totalDelataTime:23480
+2013.10.27 13:36:40.882 INFO  jpcap.media.PacketAnalyst 81 run - velocity:3613|average velocity:6624|currentBytes:3411490|deltaBytes:368600|delataTime:102|totalBytes:22823563|totalDelataTime:23582
+2013.10.27 13:36:40.973 INFO  jpcap.media.PacketAnalyst 81 run - velocity:9651|average velocity:7120|currentBytes:4386340|deltaBytes:974850|delataTime:101|totalBytes:23798413|totalDelataTime:23683
+2013.10.27 13:36:41.089 INFO  jpcap.media.PacketAnalyst 81 run - velocity:7169|average velocity:7128|currentBytes:5210840|deltaBytes:824500|delataTime:115|totalBytes:24622913|totalDelataTime:23798
+2013.10.27 13:36:41.189 INFO  jpcap.media.PacketAnalyst 81 run - velocity:6434|average velocity:7044|currentBytes:5860740|deltaBytes:649900|delataTime:101|totalBytes:25272813|totalDelataTime:23899
+2013.10.27 13:36:41.290 INFO  jpcap.media.PacketAnalyst 81 run - velocity:10584|average velocity:7430|currentBytes:6940350|deltaBytes:1079610|delataTime:102|totalBytes:26352423|totalDelataTime:24001
+2013.10.27 13:36:41.392 INFO  jpcap.media.PacketAnalyst 81 run - velocity:8461|average velocity:7531|currentBytes:7794920|deltaBytes:854570|delataTime:101|totalBytes:27206993|totalDelataTime:24102
+2013.10.27 13:36:41.493 INFO  jpcap.media.PacketAnalyst 81 run - velocity:7519|average velocity:7530|currentBytes:8554430|deltaBytes:759510|delataTime:101|totalBytes:27966503|totalDelataTime:24203
+2013.10.27 13:36:41.604 INFO  jpcap.media.PacketAnalyst 81 run - velocity:6599|average velocity:7450|currentBytes:9260590|deltaBytes:706160|delataTime:107|totalBytes:28672663|totalDelataTime:24310
+2013.10.27 13:36:41.700 INFO  jpcap.media.PacketAnalyst 81 run - velocity:9363|average velocity:7594|currentBytes:10206340|deltaBytes:945750|delataTime:101|totalBytes:29618413|totalDelataTime:24411
+2013.10.27 13:36:41.803 INFO  jpcap.media.PacketAnalyst 81 run - velocity:8019|average velocity:7623|currentBytes:11016290|deltaBytes:809950|delataTime:101|totalBytes:30428363|totalDelataTime:24512
+2013.10.27 13:36:41.902 INFO  jpcap.media.PacketAnalyst 81 run - velocity:7567|average velocity:7620|currentBytes:11780650|deltaBytes:764360|delataTime:101|totalBytes:31192723|totalDelataTime:24613
+2013.10.27 13:36:42.004 INFO  jpcap.media.PacketAnalyst 81 run - velocity:7990|average velocity:7642|currentBytes:12587690|deltaBytes:807040|delataTime:101|totalBytes:31999763|totalDelataTime:24714
+2013.10.27 13:36:42.128 INFO  jpcap.media.PacketAnalyst 81 run - velocity:6685|average velocity:7582|currentBytes:13329740|deltaBytes:742050|delataTime:111|totalBytes:32741813|totalDelataTime:24825
+2013.10.27 13:36:42.227 INFO  jpcap.media.PacketAnalyst 81 run - velocity:8532|average velocity:7634|currentBytes:14208560|deltaBytes:878820|delataTime:103|totalBytes:33620633|totalDelataTime:24928
+2013.10.27 13:36:42.319 INFO  jpcap.media.PacketAnalyst 81 run - velocity:8595|average velocity:7684|currentBytes:15076710|deltaBytes:868150|delataTime:101|totalBytes:34488783|totalDelataTime:25029
+2013.10.27 13:36:42.422 INFO  jpcap.media.PacketAnalyst 81 run - velocity:6578|average velocity:7630|currentBytes:15741160|deltaBytes:664450|delataTime:101|totalBytes:35153233|totalDelataTime:25130
+2013.10.27 13:36:42.524 INFO  jpcap.media.PacketAnalyst 81 run - velocity:8478|average velocity:7670|currentBytes:16622890|deltaBytes:881730|delataTime:104|totalBytes:36034963|totalDelataTime:25234
+2013.10.27 13:36:42.625 INFO  jpcap.media.PacketAnalyst 81 run - velocity:5858|average velocity:7590|currentBytes:17214590|deltaBytes:591700|delataTime:101|totalBytes:36626663|totalDelataTime:25335
+2013.10.27 13:36:42.751 INFO  jpcap.media.PacketAnalyst 81 run - velocity:8461|average velocity:7627|currentBytes:18069160|deltaBytes:854570|delataTime:101|totalBytes:37481233|totalDelataTime:25436
+2013.10.27 13:36:42.828 INFO  jpcap.media.PacketAnalyst 81 run - velocity:8249|average velocity:7652|currentBytes:18902390|deltaBytes:833230|delataTime:101|totalBytes:38314463|totalDelataTime:25537
+2013.10.27 13:36:42.933 INFO  jpcap.media.PacketAnalyst 81 run - velocity:2346|average velocity:7436|currentBytes:19148770|deltaBytes:246380|delataTime:105|totalBytes:38560843|totalDelataTime:25642
+2013.10.27 13:36:43.041 INFO  jpcap.media.PacketAnalyst 81 run - velocity:1762|average velocity:7205|currentBytes:19340830|deltaBytes:192060|delataTime:109|totalBytes:38752903|totalDelataTime:25751
+2013.10.27 13:36:43.146 INFO  jpcap.media.PacketAnalyst 81 run - velocity:9949|average velocity:7305|currentBytes:20345750|deltaBytes:1004920|delataTime:101|totalBytes:39757823|totalDelataTime:25852

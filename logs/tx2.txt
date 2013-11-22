@@ -1,0 +1,143 @@
+QZOutputJson={
+	"fl": {
+		"cnt": 6,
+		"fi": [{
+			"br": 64,
+			"id": 1,
+			"name": "flv",
+			"sb": 1,
+			"sl": 0
+		},
+		{
+			"br": 64,
+			"id": 2,
+			"name": "mp4",
+			"sb": 1,
+			"sl": 0
+		},
+		{
+			"br": 650,
+			"id": 10201,
+			"name": "shd",
+			"sb": 1,
+			"sl": 0
+		},
+		{
+			"br": 235,
+			"id": 10202,
+			"name": "hd",
+			"sb": 1,
+			"sl": 1
+		},
+		{
+			"br": 64,
+			"id": 10203,
+			"name": "sd",
+			"sb": 1,
+			"sl": 0
+		},
+		{
+			"br": 1200,
+			"id": 10209,
+			"name": "fhd",
+			"sb": 1,
+			"sl": 0
+		}]
+	},
+	"hs": 0,
+	"ls": 0,
+	"preview": 720,
+	"s": "o",
+	"sfl": {
+		"cnt": 0
+	},
+	"tm": 1384763177,
+	"vl": {
+		"cnt": 1,
+		"vi": [{
+			"br": 66,
+			"ch": 0,
+			"cl": {
+				"ci": [{
+					"cd": "296.660004",
+					"cmd5": "e3e236242e637601bf748b24025247e7",
+					"cs": 19254507,
+					"idx": 1,
+					"keyid": "h00138wnrs5.10202.1"
+				},
+				{
+					"cd": "424.233337",
+					"cmd5": "5443565986dd49b89a2a2772c948612a",
+					"cs": 30240722,
+					"idx": 2,
+					"keyid": "h00138wnrs5.10202.2"
+				}],
+				"fc": 2
+			},
+			"fmd5": "66757ca9eaf7052d6ad022094743bd03",
+			"fn": "h00138wnrs5.p202.mp4",
+			"fs": 49452113,
+			"fst": 5,
+			"lnk": "h00138wnrs5",
+			"logo": 1,
+			"pl": [{
+				"cnt": 2,
+				"pd": [{
+					"c": 10,
+					"cd": 10,
+					"fmt": 40001,
+					"fn": "q1",
+					"h": 45,
+					"r": 10,
+					"url": "http://video.qpic.cn/video_caps/0/",
+					"w": 80
+				},
+				{
+					"c": 5,
+					"cd": 10,
+					"fmt": 40002,
+					"fn": "q2",
+					"h": 90,
+					"r": 5,
+					"url": "http://video.qpic.cn/video_caps/0/",
+					"w": 160
+				}]
+			}],
+			"share": 1,
+			"st": 2,
+			"td": "720.895",
+			"ti": "̹̹С��Ա_001",
+			"type": 1030,
+			"ul": {
+				"ui": [{
+					"dt": 2,
+					"dtc": 10,
+					"url": "http://116.211.120.19/vlive.qqvideo.tc.qq.com/",
+					"vt": 203
+				},
+				{
+					"dt": 2,
+					"dtc": 0,
+					"url": "http://vhotwsh.video.qq.com/flv/111/35/",
+					"vt": 100
+				},
+				{
+					"dt": 2,
+					"dtc": 0,
+					"url": "http://vhoth.dnion.videocdn.qq.com/flv/111/35/",
+					"vt": 112
+				},
+				{
+					"dt": 2,
+					"dtc": 10,
+					"url": "http://video.dispatch.tc.qq.com/70052387/",
+					"vt": 0
+				}]
+			},
+			"vh": 352,
+			"vid": "h00138wnrs5",
+			"videotype": 3,
+			"vw": 640
+		}]
+	}
+};

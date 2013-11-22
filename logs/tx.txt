@@ -1,0 +1,143 @@
+QZOutputJson={
+	"fl": {
+		"cnt": 4,
+		"fi": [{
+			"br": 64,
+			"id": 1,
+			"name": "flv",
+			"sb": 1,
+			"sl": 0
+		},
+		{
+			"br": 64,
+			"id": 2,
+			"name": "mp4",
+			"sb": 1,
+			"sl": 0
+		},
+		{
+			"br": 235,
+			"id": 10202,
+			"name": "hd",
+			"sb": 1,
+			"sl": 1
+		},
+		{
+			"br": 64,
+			"id": 10203,
+			"name": "sd",
+			"sb": 1,
+			"sl": 0
+		}]
+	},
+	"hs": 0,
+	"ls": 0,
+	"preview": 1447,
+	"s": "o",
+	"sfl": {
+		"cnt": 0
+	},
+	"tm": 1384762780,
+	"vl": {
+		"cnt": 1,
+		"vi": [{
+			"br": 66,
+			"ch": 0,
+			"cl": {
+				"ci": [{
+					"cd": "295.893341",
+					"cmd5": "0cafe3b3163e7d445a11cd98fac0b002",
+					"cs": 30816543,
+					"idx": 1,
+					"keyid": "a0013janssn.10202.1"
+				},
+				{
+					"cd": "302.121674",
+					"cmd5": "95c1636757bb69184c281a676fa975ca",
+					"cs": 18817072,
+					"idx": 2,
+					"keyid": "a0013janssn.10202.2"
+				},
+				{
+					"cd": "300.040009",
+					"cmd5": "0cf4a1f7016d369265201c219b11e7ed",
+					"cs": 18340531,
+					"idx": 3,
+					"keyid": "a0013janssn.10202.3"
+				},
+				{
+					"cd": "549.119995",
+					"cmd5": "472c3e1a7fff74ab9d8ecdf92d572cc8",
+					"cs": 31571491,
+					"idx": 4,
+					"keyid": "a0013janssn.10202.4"
+				}],
+				"fc": 4
+			},
+			"fmd5": "1a019721d9ee2aa3d38030d10f702012",
+			"fn": "a0013janssn.p202.mp4",
+			"fs": 99209332,
+			"fst": 5,
+			"lnk": "a0013janssn",
+			"logo": 1,
+			"pl": [{
+				"cnt": 2,
+				"pd": [{
+					"c": 10,
+					"cd": 10,
+					"fmt": 40001,
+					"fn": "q1",
+					"h": 45,
+					"r": 10,
+					"url": "http://video.qpic.cn/video_caps/0/",
+					"w": 80
+				},
+				{
+					"c": 5,
+					"cd": 10,
+					"fmt": 40002,
+					"fn": "q2",
+					"h": 90,
+					"r": 5,
+					"url": "http://video.qpic.cn/video_caps/0/",
+					"w": 160
+				}]
+			}],
+			"share": 1,
+			"st": 2,
+			"td": "1447.17",
+			"ti": "ºÚ×ÓµÄÀºÇòµÚ2¼¾_07",
+			"type": 1030,
+			"ul": {
+				"ui": [{
+					"dt": 2,
+					"dtc": 0,
+					"url": "http://vhotwsh.video.qq.com/flv/83/50/",
+					"vt": 100
+				},
+				{
+					"dt": 2,
+					"dtc": 0,
+					"url": "http://vhotlx.video.qq.com/flv/83/50/",
+					"vt": 150
+				},
+				{
+					"dt": 2,
+					"dtc": 0,
+					"url": "http://vhoth.dnion.videocdn.qq.com/flv/83/50/",
+					"vt": 112
+				},
+				{
+					"dt": 2,
+					"dtc": 10,
+					"url": "http://video.dispatch.tc.qq.com/23516722/",
+					"vt": 0
+				}]
+			},
+			"vh": 352,
+			"vid": "a0013janssn",
+			"videotype": 3,
+			"vw": 640
+		}]
+	}
+};
